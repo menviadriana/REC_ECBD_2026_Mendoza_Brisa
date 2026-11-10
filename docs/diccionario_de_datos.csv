@@ -1,34 +1,34 @@
-﻿variable,tipo,descripcion,valores,nulos
-school,Numérica ordinal,Escuela (GP Gabriel Pereira / MS Mousinho da Silveira),"GP, MS",0
-sex,Numérica ordinal,Sexo (F / M),"F, M",0
-age,Numérica,Edad del estudiante,15 a 22,0
-address,Numérica ordinal,Domicilio (U urbano / R rural),"R, U",0
-famsize,Numérica ordinal,Tamaño de la familia (LE3 <=3 / GT3 >3),"GT3, LE3",0
-Pstatus,Numérica ordinal,Padres (T juntos / A separados),"A, T",0
-Medu,Numérica ordinal,Escolaridad de la madre (0 ninguna a 4 superior),"0, 1, 2, 3, 4",0
-Fedu,Numérica ordinal,Escolaridad del padre (0 ninguna a 4 superior),"0, 1, 2, 3, 4",0
-Mjob,Numérica ordinal,Trabajo de la madre,"at_home, health, other, services, teacher",0
-Fjob,Numérica ordinal,Trabajo del padre,"at_home, health, other, services, teacher",0
-reason,Numérica ordinal,Motivo de elección de la escuela,"course, home, other, reputation",0
-guardian,Numérica ordinal,Tutor del estudiante,"father, mother, other",0
-traveltime,Numérica ordinal,Tiempo de traslado (1 <15 min a 4 >1 h),"1, 2, 3, 4",0
-studytime,Numérica ordinal,Horas de estudio semanales (1 <2 h a 4 >10 h),"1, 2, 3, 4",0
-failures,Numérica,Materias reprobadas anteriormente (0 a 3),"0, 1, 2, 3",0
-schoolsup,Numérica ordinal,Apoyo educativo extra de la escuela,"no, yes",0
-famsup,Numérica ordinal,Apoyo educativo de la familia,"no, yes",0
-paid,Numérica ordinal,Clases extra pagadas,"no, yes",0
-activities,Numérica ordinal,Actividades extracurriculares,"no, yes",0
-nursery,Numérica ordinal,Asistió a guardería,"no, yes",0
-higher,Numérica ordinal,Quiere estudios superiores,"no, yes",0
-internet,Numérica ordinal,Internet en casa,"no, yes",0
-romantic,Numérica ordinal,Relación de pareja,"no, yes",0
-famrel,Numérica ordinal,Calidad de relación familiar (1 a 5),"1, 2, 3, 4, 5",0
-freetime,Numérica ordinal,Tiempo libre (1 a 5),"1, 2, 3, 4, 5",0
-goout,Numérica ordinal,Salidas con amigos (1 a 5),"1, 2, 3, 4, 5",0
-Dalc,Numérica ordinal,Consumo de alcohol entre semana (1 a 5),"1, 2, 3, 4, 5",0
-Walc,Numérica ordinal,Consumo de alcohol en fin de semana (1 a 5),"1, 2, 3, 4, 5",0
-health,Numérica ordinal,Estado de salud (1 a 5),"1, 2, 3, 4, 5",0
-absences,Numérica,Número de faltas,0 a 32,0
-G1,Numérica,Calificación periodo 1 (0 a 20),0 a 19,0
-G2,Numérica,Calificación periodo 2 (0 a 20),0 a 19,0
-G3,Numérica,Calificación final (0 a 20) - VARIABLE OBJETIVO,0 a 19,0
+﻿variable,descripcion,tipo_python,tipo_variable,clasificacion,unidad_medida,posible_utilidad
+school,"Escuela: GP Gabriel Pereira, MS Mousinho da Silveira",str,Cualitativa,Nominal binaria,No aplica,Comparar desempeño entre escuelas; predictora
+sex,Sexo del estudiante (F / M),str,Cualitativa,Nominal binaria,No aplica,Predictora; segmentación del dashboard
+age,Edad del estudiante,int64,Cuantitativa,Discreta,Años,Predictora; edades altas indican rezago
+address,"Tipo de domicilio: U urbano, R rural",str,Cualitativa,Nominal binaria,No aplica,Predictora (contexto socioeconómico)
+famsize,"Tamaño de la familia: LE3 (<=3), GT3 (>3)",str,Cualitativa,Ordinal binaria,No aplica,Predictora de entorno familiar
+Pstatus,"Situación de los padres: T juntos, A separados",str,Cualitativa,Nominal binaria,No aplica,Predictora de entorno familiar
+Medu,Escolaridad de la madre (0 ninguna a 4 superior),int64,Cualitativa,Ordinal,Nivel 0-4,Predictora; correlación positiva con G3
+Fedu,Escolaridad del padre (0 ninguna a 4 superior),int64,Cualitativa,Ordinal,Nivel 0-4,Predictora; correlación positiva con G3
+Mjob,"Trabajo de la madre (teacher, health, services, at_home, other)",str,Cualitativa,Nominal,No aplica,Predictora (requiere one-hot)
+Fjob,Trabajo del padre (mismas categorías),str,Cualitativa,Nominal,No aplica,Predictora (requiere one-hot)
+reason,Motivo de elección de la escuela,str,Cualitativa,Nominal,No aplica,Predictora (requiere one-hot)
+guardian,"Tutor del estudiante (mother, father, other)",str,Cualitativa,Nominal,No aplica,Predictora (requiere one-hot)
+traveltime,Tiempo de traslado (1 <15 min a 4 >1 h),int64,Cualitativa,Ordinal,Rango de tiempo,Predictora; clustering
+studytime,Estudio semanal (1 <2 h a 4 >10 h),int64,Cualitativa,Ordinal,Rango de horas,Predictora clave; clustering
+failures,Materias reprobadas anteriormente (0 a 3),int64,Cuantitativa,Discreta,Número de materias,Predictora más fuerte fuera de G1/G2
+schoolsup,Apoyo educativo extra de la escuela,str,Cualitativa,Nominal binaria,No aplica,Predictora; indica alumnos en riesgo
+famsup,Apoyo educativo de la familia,str,Cualitativa,Nominal binaria,No aplica,Predictora
+paid,Clases extra pagadas de la materia,str,Cualitativa,Nominal binaria,No aplica,Predictora
+activities,Actividades extracurriculares,str,Cualitativa,Nominal binaria,No aplica,Predictora; clustering
+nursery,Asistió a guardería/preescolar,str,Cualitativa,Nominal binaria,No aplica,Predictora (baja relevancia esperada)
+higher,Quiere cursar estudios superiores,str,Cualitativa,Nominal binaria,No aplica,Predictora importante (motivación)
+internet,Acceso a internet en casa,str,Cualitativa,Nominal binaria,No aplica,Predictora (recursos en casa)
+romantic,Tiene relación de pareja,str,Cualitativa,Nominal binaria,No aplica,Predictora; clustering (vida social)
+famrel,Calidad de la relación familiar (1 a 5),int64,Cualitativa,Ordinal,Escala 1-5,Predictora; clustering
+freetime,Tiempo libre después de clases (1 a 5),int64,Cualitativa,Ordinal,Escala 1-5,Predictora; clustering
+goout,Salidas con amigos (1 a 5),int64,Cualitativa,Ordinal,Escala 1-5,Predictora; clustering
+Dalc,Consumo de alcohol entre semana (1 a 5),int64,Cualitativa,Ordinal,Escala 1-5,Predictora; clustering
+Walc,Consumo de alcohol en fin de semana (1 a 5),int64,Cualitativa,Ordinal,Escala 1-5,Predictora; clustering
+health,Estado de salud actual (1 a 5),int64,Cualitativa,Ordinal,Escala 1-5,Predictora
+absences,Número de faltas a clase,int64,Cuantitativa,Discreta,Número de faltas,Predictora; clustering
+G1,Calificación del primer periodo,int64,Cuantitativa,Discreta,Puntos (0 a 20),Predictora (escenario con parciales)
+G2,Calificación del segundo periodo,int64,Cuantitativa,Discreta,Puntos (0 a 20),Predictora (escenario con parciales)
+G3,Calificación final del curso,int64,Cuantitativa,Discreta,Puntos (0 a 20),Variable objetivo de regresión; base de la clase aprobado/no aprobado

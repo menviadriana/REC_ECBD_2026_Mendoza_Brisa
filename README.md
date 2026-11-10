@@ -48,8 +48,8 @@ REC_ECBD_2026_Mendoza_Brisa/
 │       ├── student_por_escalado.csv   (634 registros escalados, Unidad IV)
 │       └── datamart/                  (una tabla CSV por tabla del Data Mart)
 ├── notebooks/
-│   ├── 01_exploracion_datos.ipynb     # EDA y diccionario de datos
-│   └── 02_limpieza_etl.ipynb          # Limpieza, transformación y ETL
+│   ├── Mendoza_Vigueras_Brisa_U2_AE1_Exploracion.ipynb   # U2 AE1: exploración y diagnóstico
+│   └── 02_limpieza_etl.ipynb          # U2 AE2: limpieza, transformación y ETL
 ├── src/
 │   └── etl.py                   # Proceso ETL completo y reproducible
 ├── sql/
@@ -59,6 +59,7 @@ REC_ECBD_2026_Mendoza_Brisa/
 ├── modelos/                     # Modelos entrenados (.joblib)
 ├── dashboard/                   # Archivo de Power BI (.pbix)
 └── docs/
+    ├── Mendoza_Vigueras_Brisa_U2_AE1_Diagnostico.pdf
     ├── diccionario_de_datos.csv
     └── figuras/                 # Gráficas del análisis exploratorio
 ```
@@ -66,6 +67,10 @@ REC_ECBD_2026_Mendoza_Brisa/
 > **Regla de integridad:** `data/raw/` conserva siempre el dataset original sin modificar. Todo archivo limpio o transformado se guarda en `data/processed/`.
 
 ## Unidad II: preparación de datos
+
+**Actividad 1 – Exploración y diagnóstico:** `notebooks/Mendoza_Vigueras_Brisa_U2_AE1_Exploracion.ipynb` e informe `docs/Mendoza_Vigueras_Brisa_U2_AE1_Diagnostico.pdf`. Sin modificar los datos originales: 0 nulos, 0 duplicados, 0 valores fuera de rango; 15 alumnos con G3 = 0 (abandono), 1 con G1 = 0 (dato no capturado), 21 atípicos en faltas y clases desbalanceadas (84.6 % / 15.4 %).
+
+**Actividad 2 – Limpieza, transformación y ETL:** `notebooks/02_limpieza_etl.ipynb`, `src/etl.py` y scripts de `sql/`.
 
 **Decisiones de limpieza**
 
