@@ -41,29 +41,57 @@ REC_ECBD_2026_Mendoza_Brisa/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   ├── raw/          # Dataset original SIN modificaciones
-│   └── processed/    # Datos limpios y transformados
-├── notebooks/        # Jupyter Notebooks (EDA, modelos)
-├── src/              # Scripts de Python (ETL, funciones)
-├── sql/              # Scripts del Data Mart en SQL Server
-├── modelos/          # Modelos entrenados (.joblib)
-├── dashboard/        # Archivo de Power BI (.pbix)
-└── docs/             # Documentos entregables por unidad
+│   ├── raw/                     # Dataset original SIN modificaciones
+│   └── processed/               # Datos limpios y transformados
+│       ├── student_por_limpio.csv     (649 registros + variables derivadas)
+│       ├── student_por_modelo.csv     (634 registros codificados, Unidad III)
+│       ├── student_por_escalado.csv   (634 registros escalados, Unidad IV)
+│       └── datamart/                  (una tabla CSV por tabla del Data Mart)
+├── notebooks/
+│   ├── 01_exploracion_datos.ipynb     # EDA y diccionario de datos
+│   └── 02_limpieza_etl.ipynb          # Limpieza, transformación y ETL
+├── src/
+│   └── etl.py                   # Proceso ETL completo y reproducible
+├── sql/
+│   ├── 01_crear_datamart.sql    # Crea la base y el modelo estrella
+│   ├── 02_cargar_datos.sql      # Inserta los datos (generado por etl.py)
+│   └── 03_consultas_analiticas.sql
+├── modelos/                     # Modelos entrenados (.joblib)
+├── dashboard/                   # Archivo de Power BI (.pbix)
+└── docs/
+    ├── diccionario_de_datos.csv
+    └── figuras/                 # Gráficas del análisis exploratorio
 ```
 
 > **Regla de integridad:** `data/raw/` conserva siempre el dataset original sin modificar. Todo archivo limpio o transformado se guarda en `data/processed/`.
 
-## Forma de trabajo
+## Unidad II: preparación de datos
 
-- Metodología **CRISP-DM**: comprensión del negocio → comprensión de los datos → preparación → modelado → evaluación → despliegue.
-- Herramientas: Python 3, Jupyter Notebook / VS Code, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, SQL Server, Power BI, Git y GitHub.
-- Avance progresivo por unidad, registrado mediante commits.
+**Decisiones de limpieza**
 
-Instalación de dependencias:
+| Hallazgo | Decisión |
+|---|---|
+| 0 nulos, 0 duplicados, sin valores fuera de rango | No se requiere imputación |
+| 15 alumnos con G3 = 0 y 0 faltas (probable abandono) | Se marcan con `abandono = 1`; se conservan en el Data Mart y se excluyen del modelado |
+| 21 alumnos con más de 15 faltas (atípicos por IQR) | Son válidos; para el modelado se recortan a 15 |
+| 13 variables binarias y 4 nominales | Binarias → 0/1; nominales → one-hot |
+| Escalas distintas entre variables | `StandardScaler` para clustering/PCA |
+
+**Variables derivadas:** `id_estudiante`, `aprobado` (G3 ≥ 10), `nivel_desempeno` (Bajo/Medio/Alto), `abandono`.
+
+**Data Mart `DM_RendimientoEstudiantil` (modelo estrella)**
+
+- Hechos: `fact_rendimiento` (g1, g2, g3, faltas, reprobadas_previas, aprobado, abandono)
+- Dimensiones: `dim_estudiante`, `dim_familia`, `dim_habitos`, `dim_escuela`, `dim_desempeno`
+
+## Cómo ejecutar
 
 ```bash
 pip install -r requirements.txt
+python src/etl.py
 ```
+
+Después, en SQL Server Management Studio (servidor `localhost\SQLEXPRESS`) ejecutar en orden los scripts de `sql/`.
 
 ## Avance por unidad
 
@@ -71,7 +99,7 @@ pip install -r requirements.txt
 |---|---|---|---|
 | Actividad 0 | Inicio y registro | 25 sep 2026 | ✅ Entregada |
 | I | Planeación del proyecto (`docs/Mendoza_Vigueras_Brisa_U1_PlaneacionProyecto.pdf`) | 2 oct 2026 | ✅ Entregada |
-| II | Preparación de datos, ETL y Data Mart | 16 oct 2026 | ⏳ Pendiente |
+| II | Preparación de datos, ETL y Data Mart | 16 oct 2026 | ✅ En revisión |
 | III | Análisis supervisado | 30 oct 2026 | ⏳ Pendiente |
 | IV | Análisis no supervisado | 13 nov 2026 | ⏳ Pendiente |
 | V | Dashboard, storytelling y defensa | 20 nov 2026 | ⏳ Pendiente |

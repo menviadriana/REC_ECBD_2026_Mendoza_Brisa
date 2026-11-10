@@ -1,0 +1,4 @@
+id_desempeno,nivel,calif_min,calif_max,resultado
+1,Bajo,0,9,No aprobado
+2,Medio,10,13,Aprobado
+3,Alto,14,20,Aprobado

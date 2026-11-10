@@ -1,0 +1,650 @@
+id_estudiante,sexo,edad,domicilio,motivo_escuela,quiere_estudios_superiores,internet_en_casa,relacion_pareja,asistio_guarderia,salud
+1,Femenino,18,Urbano,Plan de estudios,Sí,No,No,Sí,3
+2,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,No,3
+3,Femenino,15,Urbano,Otro,Sí,Sí,No,Sí,3
+4,Femenino,15,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+5,Femenino,16,Urbano,Cercanía,Sí,No,No,Sí,5
+6,Masculino,16,Urbano,Reputación,Sí,Sí,No,Sí,5
+7,Masculino,16,Urbano,Cercanía,Sí,Sí,No,Sí,3
+8,Femenino,17,Urbano,Cercanía,Sí,No,No,Sí,1
+9,Masculino,15,Urbano,Cercanía,Sí,Sí,No,Sí,1
+10,Masculino,15,Urbano,Cercanía,Sí,Sí,No,Sí,5
+11,Femenino,15,Urbano,Reputación,Sí,Sí,No,Sí,2
+12,Femenino,15,Urbano,Reputación,Sí,Sí,No,Sí,4
+13,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+14,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+15,Masculino,15,Urbano,Cercanía,Sí,Sí,Sí,Sí,3
+16,Femenino,16,Urbano,Cercanía,Sí,Sí,No,Sí,2
+17,Femenino,16,Urbano,Reputación,Sí,Sí,No,Sí,2
+18,Femenino,16,Urbano,Reputación,Sí,No,No,Sí,4
+19,Masculino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+20,Masculino,16,Urbano,Cercanía,Sí,Sí,No,Sí,5
+21,Masculino,15,Urbano,Reputación,Sí,Sí,No,Sí,1
+22,Masculino,15,Urbano,Otro,Sí,Sí,No,Sí,5
+23,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+24,Masculino,16,Urbano,Reputación,Sí,Sí,No,Sí,5
+25,Femenino,15,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+26,Femenino,16,Urbano,Cercanía,Sí,Sí,No,No,5
+27,Masculino,15,Urbano,Cercanía,Sí,Sí,No,Sí,5
+28,Masculino,15,Urbano,Otro,Sí,Sí,No,Sí,1
+29,Masculino,16,Urbano,Cercanía,Sí,Sí,No,Sí,5
+30,Masculino,16,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+31,Masculino,15,Urbano,Cercanía,Sí,Sí,No,No,5
+32,Masculino,15,Urbano,Reputación,Sí,Sí,No,Sí,5
+33,Masculino,15,Rural,Plan de estudios,Sí,Sí,Sí,Sí,5
+34,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,No,2
+35,Masculino,16,Urbano,Cercanía,Sí,Sí,No,No,5
+36,Femenino,15,Urbano,Otro,Sí,No,No,Sí,5
+37,Masculino,15,Urbano,Cercanía,Sí,Sí,No,Sí,4
+38,Masculino,16,Rural,Reputación,Sí,Sí,Sí,Sí,5
+39,Femenino,15,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+40,Femenino,15,Rural,Reputación,Sí,No,No,Sí,2
+41,Femenino,16,Urbano,Cercanía,Sí,Sí,Sí,No,3
+42,Masculino,15,Urbano,Cercanía,Sí,Sí,Sí,No,5
+43,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+44,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+45,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+46,Femenino,15,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+47,Femenino,16,Urbano,Cercanía,Sí,Sí,No,Sí,3
+48,Masculino,16,Urbano,Reputación,Sí,Sí,No,Sí,2
+49,Masculino,15,Urbano,Cercanía,Sí,No,No,Sí,5
+50,Femenino,15,Urbano,Otro,Sí,Sí,No,No,3
+51,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+52,Femenino,15,Urbano,Otro,Sí,Sí,No,Sí,5
+53,Masculino,15,Urbano,Otro,Sí,No,No,Sí,5
+54,Femenino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+55,Femenino,15,Urbano,Otro,Sí,Sí,No,Sí,1
+56,Femenino,16,Urbano,Otro,Sí,Sí,Sí,Sí,2
+57,Femenino,15,Urbano,Reputación,Sí,Sí,No,Sí,1
+58,Masculino,15,Urbano,Reputación,Sí,No,No,Sí,5
+59,Masculino,15,Urbano,Cercanía,Sí,Sí,No,Sí,5
+60,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+61,Femenino,16,Rural,Otro,Sí,No,No,Sí,4
+62,Femenino,16,Urbano,Plan de estudios,Sí,Sí,Sí,No,5
+63,Femenino,16,Urbano,Reputación,Sí,Sí,No,Sí,1
+64,Femenino,16,Urbano,Cercanía,Sí,Sí,No,Sí,4
+65,Femenino,15,Urbano,Reputación,Sí,Sí,Sí,Sí,2
+66,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+67,Masculino,15,Urbano,Reputación,Sí,Sí,Sí,No,3
+68,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+69,Femenino,15,Rural,Reputación,Sí,Sí,No,Sí,4
+70,Femenino,15,Rural,Reputación,Sí,Sí,No,No,3
+71,Masculino,16,Urbano,Reputación,Sí,Sí,No,Sí,5
+72,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+73,Femenino,15,Rural,Reputación,Sí,Sí,Sí,No,5
+74,Masculino,16,Urbano,Reputación,Sí,No,No,Sí,5
+75,Femenino,16,Urbano,Cercanía,Sí,Sí,No,Sí,5
+76,Masculino,15,Urbano,Cercanía,Sí,Sí,No,Sí,5
+77,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+78,Femenino,16,Urbano,Reputación,Sí,Sí,Sí,Sí,3
+79,Masculino,17,Urbano,Cercanía,No,Sí,No,Sí,3
+80,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+81,Masculino,15,Urbano,Plan de estudios,Sí,Sí,Sí,No,3
+82,Masculino,15,Urbano,Cercanía,Sí,Sí,No,No,5
+83,Femenino,15,Urbano,Reputación,Sí,Sí,No,Sí,5
+84,Masculino,15,Urbano,Cercanía,Sí,Sí,No,Sí,4
+85,Femenino,15,Urbano,Cercanía,Sí,Sí,No,No,4
+86,Femenino,15,Urbano,Reputación,Sí,Sí,Sí,Sí,5
+87,Femenino,16,Urbano,Plan de estudios,Sí,No,No,Sí,2
+88,Femenino,15,Urbano,Reputación,Sí,Sí,No,Sí,1
+89,Masculino,16,Urbano,Reputación,Sí,Sí,No,No,3
+90,Masculino,16,Urbano,Reputación,Sí,No,No,Sí,5
+91,Femenino,16,Urbano,Cercanía,Sí,Sí,Sí,Sí,4
+92,Femenino,15,Urbano,Reputación,Sí,Sí,No,Sí,1
+93,Femenino,16,Urbano,Cercanía,Sí,No,No,Sí,2
+94,Femenino,16,Urbano,Cercanía,Sí,Sí,No,Sí,1
+95,Masculino,15,Urbano,Reputación,Sí,Sí,No,Sí,4
+96,Femenino,15,Rural,Cercanía,Sí,Sí,No,Sí,1
+97,Masculino,16,Rural,Reputación,Sí,Sí,No,No,4
+98,Femenino,16,Urbano,Plan de estudios,Sí,No,Sí,Sí,5
+99,Femenino,16,Urbano,Reputación,Sí,Sí,No,No,1
+100,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+101,Masculino,16,Urbano,Otro,Sí,Sí,No,Sí,4
+102,Masculino,16,Urbano,Otro,Sí,Sí,Sí,Sí,4
+103,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,No,5
+104,Femenino,15,Urbano,Cercanía,Sí,Sí,No,Sí,2
+105,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+106,Femenino,15,Urbano,Reputación,Sí,No,No,Sí,4
+107,Femenino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+108,Masculino,16,Urbano,Cercanía,Sí,Sí,No,Sí,5
+109,Masculino,15,Rural,Cercanía,Sí,Sí,Sí,Sí,1
+110,Femenino,16,Urbano,Otro,Sí,Sí,Sí,Sí,4
+111,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+112,Femenino,16,Rural,Reputación,Sí,Sí,No,Sí,2
+113,Femenino,16,Urbano,Cercanía,Sí,Sí,No,Sí,5
+114,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+115,Masculino,15,Rural,Reputación,Sí,Sí,Sí,Sí,5
+116,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+117,Masculino,15,Urbano,Reputación,Sí,No,No,Sí,2
+118,Masculino,16,Urbano,Cercanía,Sí,Sí,No,Sí,5
+119,Masculino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+120,Masculino,15,Urbano,Reputación,Sí,Sí,No,Sí,4
+121,Femenino,15,Urbano,Plan de estudios,Sí,Sí,No,No,1
+122,Masculino,15,Urbano,Cercanía,Sí,Sí,No,Sí,5
+123,Femenino,16,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+124,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+125,Femenino,16,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+126,Masculino,15,Urbano,Cercanía,Sí,Sí,No,Sí,5
+127,Femenino,15,Urbano,Cercanía,Sí,Sí,Sí,Sí,1
+128,Femenino,19,Urbano,Plan de estudios,No,No,No,No,5
+129,Masculino,16,Rural,Plan de estudios,Sí,Sí,No,Sí,4
+130,Masculino,16,Urbano,Plan de estudios,Sí,Sí,Sí,No,1
+131,Femenino,15,Rural,Plan de estudios,Sí,Sí,Sí,Sí,5
+132,Femenino,18,Urbano,Reputación,No,Sí,Sí,Sí,5
+133,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+134,Femenino,15,Urbano,Plan de estudios,Sí,Sí,Sí,No,4
+135,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+136,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+137,Masculino,16,Urbano,Plan de estudios,Sí,No,No,Sí,2
+138,Femenino,16,Urbano,Cercanía,Sí,No,No,Sí,5
+139,Masculino,15,Rural,Plan de estudios,Sí,No,Sí,Sí,5
+140,Femenino,15,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+141,Masculino,17,Rural,Plan de estudios,Sí,No,No,Sí,5
+142,Femenino,16,Rural,Plan de estudios,Sí,No,No,Sí,3
+143,Masculino,18,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,4
+144,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,No,5
+145,Femenino,16,Rural,Reputación,Sí,No,Sí,Sí,1
+146,Femenino,16,Urbano,Plan de estudios,Sí,Sí,Sí,No,5
+147,Masculino,16,Urbano,Plan de estudios,Sí,No,Sí,Sí,5
+148,Femenino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+149,Femenino,15,Rural,Plan de estudios,Sí,Sí,Sí,Sí,1
+150,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+151,Femenino,15,Urbano,Cercanía,Sí,No,Sí,No,1
+152,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+153,Masculino,16,Urbano,Reputación,Sí,Sí,No,Sí,2
+154,Femenino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+155,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+156,Masculino,17,Urbano,Cercanía,Sí,Sí,No,Sí,5
+157,Femenino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+158,Femenino,15,Urbano,Cercanía,No,Sí,Sí,Sí,5
+159,Femenino,15,Urbano,Cercanía,Sí,Sí,No,Sí,3
+160,Femenino,15,Urbano,Plan de estudios,Sí,Sí,No,No,5
+161,Femenino,15,Urbano,Plan de estudios,Sí,No,Sí,No,1
+162,Masculino,16,Urbano,Plan de estudios,No,Sí,Sí,Sí,5
+163,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+164,Masculino,18,Urbano,Plan de estudios,No,Sí,Sí,Sí,4
+165,Masculino,16,Urbano,Plan de estudios,Sí,No,Sí,Sí,5
+166,Femenino,15,Rural,Reputación,Sí,Sí,Sí,Sí,3
+167,Masculino,19,Urbano,Cercanía,No,Sí,Sí,Sí,4
+168,Femenino,17,Urbano,Plan de estudios,Sí,No,Sí,Sí,4
+169,Masculino,15,Rural,Plan de estudios,Sí,No,No,Sí,1
+170,Masculino,17,Rural,Reputación,Sí,No,No,Sí,5
+171,Femenino,18,Rural,Plan de estudios,Sí,No,No,No,4
+172,Masculino,16,Rural,Plan de estudios,Sí,No,No,No,3
+173,Masculino,16,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+174,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,No,5
+175,Masculino,17,Rural,Plan de estudios,No,Sí,Sí,Sí,5
+176,Masculino,17,Rural,Plan de estudios,Sí,Sí,Sí,Sí,3
+177,Masculino,15,Urbano,Plan de estudios,Sí,No,No,Sí,5
+178,Masculino,16,Urbano,Plan de estudios,No,Sí,No,Sí,2
+179,Masculino,17,Rural,Plan de estudios,No,No,Sí,Sí,5
+180,Masculino,17,Urbano,Plan de estudios,No,No,No,No,2
+181,Masculino,16,Urbano,Plan de estudios,No,Sí,No,Sí,4
+182,Femenino,16,Urbano,Cercanía,Sí,Sí,Sí,Sí,3
+183,Femenino,16,Urbano,Cercanía,Sí,Sí,No,No,4
+184,Femenino,16,Urbano,Reputación,Sí,Sí,Sí,Sí,3
+185,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,No,2
+186,Masculino,16,Urbano,Reputación,Sí,Sí,Sí,Sí,3
+187,Masculino,17,Urbano,Reputación,Sí,Sí,No,Sí,5
+188,Femenino,16,Urbano,Cercanía,Sí,Sí,Sí,No,3
+189,Femenino,16,Urbano,Reputación,Sí,Sí,No,Sí,4
+190,Masculino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+191,Femenino,16,Urbano,Reputación,Sí,Sí,No,No,5
+192,Masculino,17,Urbano,Reputación,Sí,Sí,No,No,4
+193,Masculino,16,Rural,Otro,Sí,Sí,Sí,Sí,3
+194,Masculino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,2
+195,Masculino,16,Urbano,Cercanía,Sí,Sí,No,Sí,3
+196,Masculino,16,Urbano,Cercanía,Sí,Sí,Sí,Sí,3
+197,Femenino,17,Urbano,Reputación,Sí,No,No,Sí,5
+198,Femenino,17,Urbano,Reputación,Sí,Sí,Sí,Sí,1
+199,Femenino,16,Urbano,Reputación,Sí,Sí,No,Sí,1
+200,Masculino,17,Urbano,Otro,Sí,Sí,Sí,Sí,4
+201,Masculino,16,Urbano,Otro,Sí,Sí,Sí,Sí,3
+202,Masculino,16,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+203,Femenino,17,Urbano,Reputación,Sí,Sí,Sí,No,3
+204,Masculino,17,Rural,Cercanía,Sí,No,No,Sí,3
+205,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,2
+206,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+207,Masculino,17,Urbano,Otro,Sí,Sí,No,No,5
+208,Masculino,16,Rural,Reputación,Sí,Sí,No,Sí,5
+209,Masculino,16,Urbano,Cercanía,Sí,Sí,No,Sí,3
+210,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+211,Masculino,17,Urbano,Cercanía,Sí,Sí,No,Sí,5
+212,Masculino,16,Rural,Cercanía,Sí,Sí,No,Sí,3
+213,Femenino,17,Urbano,Cercanía,Sí,Sí,No,Sí,2
+214,Femenino,16,Urbano,Reputación,Sí,Sí,No,Sí,3
+215,Femenino,16,Urbano,Cercanía,Sí,Sí,No,Sí,2
+216,Femenino,16,Urbano,Reputación,Sí,No,No,Sí,4
+217,Femenino,17,Urbano,Plan de estudios,Sí,No,No,No,1
+218,Femenino,17,Rural,Reputación,Sí,Sí,No,Sí,3
+219,Femenino,16,Rural,Reputación,Sí,Sí,No,No,5
+220,Femenino,17,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+221,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+222,Femenino,16,Urbano,Otro,Sí,Sí,Sí,Sí,1
+223,Femenino,16,Urbano,Cercanía,Sí,No,No,Sí,5
+224,Femenino,17,Rural,Reputación,Sí,Sí,Sí,Sí,4
+225,Femenino,19,Urbano,Reputación,Sí,Sí,No,Sí,3
+226,Masculino,17,Urbano,Cercanía,Sí,Sí,Sí,Sí,3
+227,Femenino,16,Urbano,Reputación,Sí,Sí,No,Sí,4
+228,Masculino,18,Urbano,Cercanía,Sí,Sí,No,Sí,5
+229,Femenino,17,Rural,Otro,Sí,No,No,Sí,3
+230,Femenino,17,Urbano,Reputación,Sí,Sí,No,Sí,1
+231,Femenino,17,Urbano,Reputación,Sí,Sí,Sí,Sí,1
+232,Masculino,18,Urbano,Cercanía,Sí,Sí,No,Sí,4
+233,Femenino,17,Urbano,Cercanía,Sí,No,No,Sí,3
+234,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+235,Femenino,17,Rural,Reputación,Sí,Sí,No,Sí,5
+236,Femenino,17,Urbano,Reputación,Sí,No,Sí,Sí,5
+237,Femenino,16,Urbano,Otro,Sí,Sí,No,Sí,3
+238,Masculino,18,Urbano,Cercanía,Sí,Sí,No,Sí,4
+239,Femenino,16,Urbano,Cercanía,Sí,Sí,No,No,5
+240,Femenino,18,Rural,Reputación,Sí,Sí,Sí,Sí,4
+241,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,No,3
+242,Masculino,17,Urbano,Reputación,Sí,Sí,No,No,3
+243,Masculino,18,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,3
+244,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,3
+245,Femenino,17,Urbano,Reputación,Sí,Sí,Sí,Sí,3
+246,Masculino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,1
+247,Masculino,17,Urbano,Reputación,Sí,Sí,Sí,Sí,2
+248,Masculino,16,Urbano,Reputación,Sí,Sí,No,Sí,1
+249,Masculino,16,Urbano,Cercanía,Sí,Sí,No,Sí,5
+250,Masculino,16,Urbano,Reputación,Sí,Sí,Sí,Sí,2
+251,Masculino,17,Urbano,Cercanía,Sí,Sí,Sí,No,4
+252,Femenino,16,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+253,Femenino,16,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+254,Femenino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+255,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,No,5
+256,Femenino,18,Urbano,Plan de estudios,No,Sí,No,Sí,3
+257,Masculino,18,Urbano,Plan de estudios,No,Sí,Sí,No,1
+258,Masculino,17,Urbano,Plan de estudios,Sí,Sí,No,No,5
+259,Femenino,17,Urbano,Plan de estudios,Sí,No,No,Sí,3
+260,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,4
+261,Femenino,16,Urbano,Plan de estudios,No,Sí,No,Sí,5
+262,Femenino,17,Rural,Plan de estudios,Sí,No,No,Sí,3
+263,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+264,Masculino,18,Urbano,Reputación,No,Sí,No,Sí,2
+265,Femenino,17,Urbano,Cercanía,No,Sí,No,No,1
+266,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+267,Femenino,17,Urbano,Plan de estudios,Sí,No,No,Sí,4
+268,Masculino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+269,Masculino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,4
+270,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,No,3
+271,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+272,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+273,Masculino,17,Rural,Cercanía,Sí,Sí,Sí,No,1
+274,Femenino,17,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+275,Femenino,17,Urbano,Plan de estudios,Sí,No,Sí,No,4
+276,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,No,3
+277,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+278,Femenino,17,Urbano,Plan de estudios,Sí,No,No,Sí,5
+279,Masculino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,2
+280,Masculino,22,Urbano,Otro,No,Sí,Sí,No,1
+281,Masculino,18,Rural,Plan de estudios,Sí,Sí,Sí,Sí,5
+282,Masculino,16,Urbano,Otro,Sí,Sí,No,No,5
+283,Masculino,18,Urbano,Plan de estudios,No,Sí,No,Sí,5
+284,Masculino,16,Urbano,Reputación,Sí,Sí,No,No,2
+285,Masculino,18,Urbano,Otro,No,Sí,No,No,5
+286,Masculino,16,Rural,Plan de estudios,Sí,No,No,No,3
+287,Masculino,17,Rural,Plan de estudios,Sí,Sí,No,No,5
+288,Masculino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+289,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,No,5
+290,Femenino,17,Urbano,Reputación,Sí,Sí,No,Sí,4
+291,Femenino,19,Urbano,Cercanía,Sí,Sí,No,Sí,5
+292,Masculino,18,Urbano,Plan de estudios,No,Sí,No,No,5
+293,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+294,Femenino,18,Urbano,Cercanía,Sí,No,No,No,3
+295,Femenino,18,Rural,Cercanía,Sí,No,No,Sí,5
+296,Masculino,19,Urbano,Reputación,Sí,Sí,No,Sí,1
+297,Masculino,18,Urbano,Cercanía,Sí,Sí,No,Sí,4
+298,Masculino,17,Rural,Otro,No,No,No,No,4
+299,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,2
+300,Femenino,20,Rural,Plan de estudios,No,Sí,Sí,Sí,2
+301,Femenino,18,Urbano,Cercanía,Sí,Sí,Sí,Sí,2
+302,Masculino,18,Urbano,Plan de estudios,Sí,Sí,No,No,3
+303,Masculino,18,Rural,Plan de estudios,Sí,No,No,No,3
+304,Femenino,17,Urbano,Cercanía,Sí,No,No,No,4
+305,Femenino,18,Urbano,Cercanía,Sí,Sí,Sí,Sí,3
+306,Masculino,17,Urbano,Cercanía,No,Sí,No,Sí,4
+307,Masculino,18,Rural,Reputación,Sí,Sí,No,Sí,1
+308,Masculino,17,Urbano,Otro,Sí,Sí,Sí,Sí,5
+309,Femenino,18,Rural,Reputación,Sí,Sí,No,Sí,4
+310,Masculino,18,Urbano,Reputación,Sí,Sí,Sí,Sí,5
+311,Femenino,18,Rural,Reputación,No,Sí,Sí,Sí,3
+312,Femenino,19,Urbano,Cercanía,Sí,Sí,No,Sí,5
+313,Femenino,18,Urbano,Reputación,Sí,Sí,Sí,Sí,2
+314,Femenino,18,Urbano,Cercanía,Sí,No,No,No,3
+315,Masculino,17,Rural,Cercanía,Sí,No,Sí,No,1
+316,Femenino,18,Urbano,Cercanía,Sí,Sí,Sí,Sí,1
+317,Femenino,17,Urbano,Reputación,Sí,Sí,Sí,Sí,1
+318,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+319,Femenino,18,Rural,Cercanía,No,Sí,Sí,No,5
+320,Masculino,18,Urbano,Cercanía,Sí,Sí,No,Sí,3
+321,Femenino,18,Urbano,Reputación,Sí,Sí,Sí,Sí,4
+322,Femenino,17,Urbano,Reputación,Sí,Sí,Sí,Sí,1
+323,Femenino,19,Rural,Reputación,No,Sí,No,Sí,3
+324,Masculino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+325,Masculino,18,Urbano,Cercanía,No,Sí,No,No,4
+326,Masculino,17,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+327,Masculino,17,Urbano,Cercanía,Sí,Sí,No,Sí,3
+328,Femenino,18,Rural,Reputación,Sí,No,No,Sí,3
+329,Femenino,18,Urbano,Cercanía,Sí,Sí,No,Sí,4
+330,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,No,5
+331,Femenino,18,Urbano,Reputación,Sí,Sí,Sí,Sí,5
+332,Masculino,17,Urbano,Reputación,Sí,Sí,No,No,4
+333,Femenino,18,Urbano,Otro,Sí,Sí,No,Sí,2
+334,Femenino,17,Urbano,Reputación,Sí,Sí,No,Sí,3
+335,Masculino,18,Urbano,Reputación,Sí,Sí,No,Sí,2
+336,Masculino,18,Urbano,Reputación,Sí,Sí,No,Sí,2
+337,Masculino,18,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+338,Femenino,17,Urbano,Reputación,Sí,Sí,No,Sí,3
+339,Femenino,17,Rural,Reputación,Sí,No,No,Sí,3
+340,Masculino,18,Rural,Reputación,Sí,Sí,No,Sí,4
+341,Masculino,17,Urbano,Cercanía,Sí,Sí,No,Sí,5
+342,Femenino,19,Urbano,Reputación,Sí,Sí,No,Sí,2
+343,Femenino,18,Urbano,Cercanía,Sí,Sí,Sí,Sí,2
+344,Femenino,18,Urbano,Reputación,Sí,Sí,No,Sí,3
+345,Masculino,18,Urbano,Cercanía,Sí,Sí,Sí,Sí,1
+346,Femenino,18,Urbano,Cercanía,Sí,Sí,Sí,Sí,4
+347,Masculino,17,Urbano,Cercanía,Sí,Sí,No,Sí,5
+348,Femenino,17,Rural,Reputación,Sí,Sí,No,Sí,5
+349,Femenino,17,Urbano,Reputación,Sí,Sí,No,Sí,3
+350,Femenino,17,Urbano,Reputación,Sí,Sí,No,No,5
+351,Masculino,19,Rural,Plan de estudios,Sí,Sí,Sí,Sí,5
+352,Masculino,20,Urbano,Plan de estudios,Sí,No,No,Sí,5
+353,Masculino,19,Rural,Reputación,Sí,No,Sí,Sí,5
+354,Femenino,18,Urbano,Cercanía,Sí,No,Sí,No,5
+355,Femenino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+356,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,3
+357,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+358,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+359,Femenino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+360,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,No,5
+361,Femenino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+362,Masculino,19,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,1
+363,Femenino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+364,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,1
+365,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+366,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+367,Femenino,17,Urbano,Cercanía,Sí,Sí,No,Sí,5
+368,Femenino,17,Urbano,Cercanía,Sí,Sí,No,Sí,2
+369,Masculino,18,Urbano,Reputación,Sí,Sí,No,Sí,5
+370,Femenino,19,Urbano,Plan de estudios,No,No,Sí,Sí,5
+371,Femenino,19,Urbano,Plan de estudios,Sí,Sí,Sí,No,4
+372,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+373,Femenino,17,Urbano,Plan de estudios,Sí,No,Sí,Sí,3
+374,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,3
+375,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,No,5
+376,Femenino,17,Urbano,Cercanía,Sí,Sí,No,Sí,2
+377,Femenino,18,Urbano,Cercanía,Sí,Sí,No,Sí,2
+378,Masculino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+379,Masculino,17,Urbano,Reputación,Sí,Sí,No,No,5
+380,Masculino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,4
+381,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+382,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,No,4
+383,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+384,Masculino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+385,Masculino,19,Rural,Cercanía,Sí,No,Sí,No,5
+386,Femenino,18,Urbano,Plan de estudios,Sí,No,Sí,Sí,2
+387,Femenino,17,Rural,Plan de estudios,Sí,Sí,Sí,Sí,5
+388,Masculino,18,Urbano,Reputación,Sí,Sí,No,No,5
+389,Femenino,18,Urbano,Cercanía,Sí,Sí,No,Sí,4
+390,Femenino,18,Urbano,Cercanía,Sí,Sí,Sí,No,2
+391,Femenino,18,Rural,Plan de estudios,Sí,No,No,Sí,4
+392,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+393,Femenino,17,Urbano,Cercanía,Sí,Sí,Sí,Sí,2
+394,Femenino,18,Urbano,Cercanía,Sí,Sí,No,Sí,1
+395,Femenino,17,Rural,Cercanía,Sí,Sí,No,Sí,2
+396,Masculino,18,Urbano,Cercanía,Sí,Sí,No,Sí,2
+397,Masculino,18,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+398,Femenino,17,Urbano,Cercanía,Sí,Sí,Sí,Sí,4
+399,Femenino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+400,Femenino,18,Urbano,Otro,Sí,Sí,Sí,Sí,1
+401,Masculino,18,Rural,Plan de estudios,Sí,Sí,Sí,Sí,4
+402,Masculino,18,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+403,Femenino,17,Urbano,Reputación,Sí,Sí,Sí,Sí,4
+404,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,1
+405,Femenino,17,Urbano,Reputación,Sí,Sí,No,Sí,4
+406,Femenino,19,Urbano,Cercanía,No,Sí,No,Sí,5
+407,Femenino,17,Urbano,Cercanía,Sí,Sí,Sí,Sí,3
+408,Femenino,21,Urbano,Reputación,Sí,Sí,No,Sí,5
+409,Masculino,18,Urbano,Reputación,No,Sí,No,No,3
+410,Masculino,18,Urbano,Reputación,Sí,Sí,Sí,Sí,2
+411,Femenino,17,Urbano,Reputación,Sí,Sí,No,Sí,4
+412,Masculino,17,Urbano,Reputación,Sí,Sí,No,Sí,4
+413,Femenino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+414,Masculino,21,Rural,Plan de estudios,No,Sí,Sí,Sí,4
+415,Femenino,20,Rural,Reputación,Sí,Sí,Sí,Sí,3
+416,Femenino,19,Urbano,Cercanía,Sí,Sí,Sí,Sí,5
+417,Masculino,17,Urbano,Reputación,Sí,Sí,No,Sí,5
+418,Femenino,18,Urbano,Reputación,Sí,Sí,Sí,Sí,2
+419,Masculino,18,Rural,Reputación,Sí,Sí,No,Sí,4
+420,Masculino,19,Urbano,Reputación,Sí,Sí,No,Sí,4
+421,Femenino,18,Urbano,Reputación,Sí,Sí,No,Sí,4
+422,Femenino,20,Urbano,Reputación,Sí,Sí,Sí,Sí,5
+423,Femenino,18,Urbano,Cercanía,Sí,Sí,Sí,No,1
+424,Femenino,16,Urbano,Otro,No,Sí,Sí,Sí,5
+425,Femenino,16,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+426,Femenino,15,Rural,Otro,Sí,No,Sí,Sí,2
+427,Femenino,15,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+428,Femenino,16,Rural,Plan de estudios,Sí,No,No,Sí,5
+429,Femenino,15,Rural,Cercanía,No,No,No,Sí,1
+430,Masculino,16,Rural,Cercanía,Sí,No,No,Sí,2
+431,Masculino,16,Urbano,Otro,Sí,Sí,No,Sí,5
+432,Femenino,17,Rural,Plan de estudios,Sí,No,Sí,Sí,5
+433,Femenino,17,Rural,Otro,No,Sí,No,No,5
+434,Femenino,15,Rural,Plan de estudios,Sí,Sí,Sí,Sí,5
+435,Femenino,16,Urbano,Reputación,No,No,Sí,No,1
+436,Femenino,15,Rural,Reputación,Sí,Sí,No,Sí,4
+437,Femenino,15,Rural,Plan de estudios,Sí,Sí,Sí,Sí,2
+438,Femenino,16,Rural,Otro,Sí,No,No,Sí,2
+439,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,3
+440,Femenino,15,Rural,Plan de estudios,Sí,Sí,No,No,4
+441,Masculino,16,Urbano,Cercanía,Sí,No,Sí,Sí,3
+442,Masculino,17,Urbano,Cercanía,Sí,Sí,No,No,5
+443,Masculino,15,Rural,Reputación,Sí,Sí,No,Sí,2
+444,Masculino,15,Rural,Reputación,Sí,Sí,No,Sí,2
+445,Masculino,16,Rural,Otro,Sí,No,No,No,5
+446,Masculino,15,Rural,Plan de estudios,Sí,No,Sí,Sí,4
+447,Masculino,15,Urbano,Reputación,Sí,Sí,No,Sí,5
+448,Masculino,17,Rural,Otro,No,No,Sí,Sí,3
+449,Femenino,16,Rural,Plan de estudios,Sí,Sí,Sí,Sí,4
+450,Femenino,15,Rural,Plan de estudios,Sí,No,No,Sí,1
+451,Femenino,16,Rural,Plan de estudios,Sí,Sí,No,Sí,1
+452,Masculino,16,Rural,Plan de estudios,Sí,No,No,Sí,5
+453,Femenino,16,Rural,Plan de estudios,Sí,Sí,No,Sí,4
+454,Femenino,16,Urbano,Plan de estudios,Sí,No,No,Sí,4
+455,Femenino,16,Urbano,Plan de estudios,Sí,No,No,Sí,4
+456,Femenino,15,Urbano,Cercanía,Sí,Sí,No,No,2
+457,Femenino,16,Urbano,Plan de estudios,Sí,No,Sí,No,2
+458,Masculino,17,Rural,Reputación,Sí,Sí,No,Sí,3
+459,Femenino,16,Rural,Cercanía,Sí,Sí,No,No,1
+460,Femenino,16,Rural,Otro,Sí,No,No,Sí,5
+461,Femenino,15,Rural,Cercanía,Sí,Sí,No,Sí,2
+462,Femenino,16,Rural,Otro,Sí,Sí,Sí,Sí,2
+463,Femenino,15,Rural,Plan de estudios,Sí,No,No,Sí,2
+464,Femenino,15,Rural,Otro,Sí,No,No,Sí,5
+465,Masculino,16,Rural,Otro,Sí,No,No,Sí,5
+466,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+467,Masculino,15,Urbano,Cercanía,Sí,No,No,Sí,4
+468,Femenino,16,Rural,Plan de estudios,Sí,Sí,No,Sí,2
+469,Masculino,15,Urbano,Reputación,Sí,No,No,Sí,4
+470,Masculino,16,Urbano,Plan de estudios,Sí,No,Sí,Sí,3
+471,Femenino,15,Rural,Reputación,Sí,Sí,Sí,Sí,1
+472,Femenino,16,Rural,Plan de estudios,Sí,No,No,No,5
+473,Femenino,16,Rural,Cercanía,Sí,No,Sí,Sí,4
+474,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+475,Masculino,15,Rural,Reputación,Sí,Sí,No,Sí,3
+476,Femenino,15,Urbano,Plan de estudios,Sí,No,No,Sí,4
+477,Femenino,16,Rural,Cercanía,Sí,Sí,Sí,Sí,5
+478,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,No,3
+479,Femenino,16,Rural,Plan de estudios,Sí,No,No,Sí,1
+480,Femenino,17,Urbano,Plan de estudios,No,No,No,Sí,5
+481,Femenino,19,Urbano,Plan de estudios,No,Sí,Sí,Sí,2
+482,Femenino,17,Rural,Plan de estudios,No,No,Sí,Sí,3
+483,Femenino,15,Rural,Plan de estudios,No,No,Sí,Sí,4
+484,Femenino,16,Rural,Plan de estudios,No,Sí,No,Sí,1
+485,Femenino,16,Urbano,Cercanía,No,No,No,Sí,1
+486,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,4
+487,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,No,3
+488,Femenino,18,Rural,Plan de estudios,No,No,Sí,No,2
+489,Femenino,19,Urbano,Plan de estudios,No,No,Sí,Sí,3
+490,Masculino,18,Rural,Cercanía,No,Sí,No,Sí,4
+491,Femenino,18,Rural,Plan de estudios,No,Sí,Sí,No,2
+492,Femenino,19,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,1
+493,Femenino,16,Rural,Plan de estudios,Sí,No,Sí,No,3
+494,Femenino,17,Urbano,Plan de estudios,Sí,No,No,No,5
+495,Femenino,16,Rural,Plan de estudios,No,Sí,No,Sí,3
+496,Femenino,16,Urbano,Reputación,No,Sí,Sí,Sí,4
+497,Femenino,16,Rural,Cercanía,Sí,Sí,Sí,Sí,4
+498,Masculino,17,Urbano,Plan de estudios,Sí,No,No,Sí,5
+499,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+500,Femenino,16,Urbano,Plan de estudios,Sí,No,Sí,Sí,5
+501,Masculino,17,Urbano,Plan de estudios,No,Sí,Sí,Sí,1
+502,Masculino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+503,Masculino,17,Rural,Otro,Sí,No,No,Sí,3
+504,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+505,Femenino,19,Urbano,Cercanía,Sí,Sí,Sí,Sí,1
+506,Femenino,17,Rural,Reputación,Sí,Sí,Sí,No,5
+507,Femenino,20,Urbano,Otro,Sí,Sí,Sí,Sí,3
+508,Femenino,17,Urbano,Plan de estudios,Sí,No,Sí,Sí,3
+509,Masculino,17,Rural,Plan de estudios,Sí,Sí,No,No,5
+510,Femenino,16,Rural,Plan de estudios,Sí,No,No,Sí,1
+511,Femenino,17,Rural,Reputación,Sí,No,No,Sí,1
+512,Femenino,17,Urbano,Otro,Sí,Sí,Sí,Sí,4
+513,Femenino,18,Rural,Otro,Sí,Sí,Sí,Sí,5
+514,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+515,Femenino,16,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+516,Femenino,18,Urbano,Reputación,Sí,No,No,Sí,3
+517,Femenino,16,Rural,Reputación,Sí,Sí,Sí,No,2
+518,Femenino,16,Rural,Reputación,Sí,Sí,No,Sí,2
+519,Femenino,18,Urbano,Reputación,Sí,Sí,No,Sí,1
+520,Masculino,16,Rural,Reputación,Sí,Sí,No,Sí,2
+521,Femenino,16,Urbano,Otro,Sí,Sí,No,Sí,5
+522,Femenino,16,Rural,Otro,Sí,Sí,No,Sí,2
+523,Femenino,16,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,3
+524,Masculino,18,Urbano,Cercanía,No,Sí,Sí,Sí,5
+525,Femenino,16,Rural,Otro,Sí,No,No,No,2
+526,Masculino,17,Urbano,Cercanía,Sí,Sí,No,Sí,5
+527,Femenino,17,Rural,Otro,Sí,Sí,Sí,Sí,5
+528,Masculino,16,Urbano,Otro,Sí,No,No,Sí,3
+529,Femenino,17,Rural,Otro,Sí,Sí,No,Sí,5
+530,Femenino,16,Urbano,Otro,Sí,No,No,Sí,5
+531,Masculino,17,Urbano,Cercanía,Sí,Sí,No,Sí,3
+532,Masculino,17,Urbano,Otro,Sí,Sí,Sí,Sí,1
+533,Masculino,16,Urbano,Otro,Sí,Sí,Sí,No,5
+534,Femenino,16,Urbano,Otro,Sí,Sí,Sí,Sí,3
+535,Masculino,16,Urbano,Otro,Sí,Sí,No,Sí,5
+536,Masculino,15,Rural,Plan de estudios,Sí,No,No,Sí,5
+537,Masculino,15,Urbano,Reputación,Sí,No,No,Sí,5
+538,Masculino,15,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+539,Femenino,16,Rural,Plan de estudios,Sí,No,Sí,No,5
+540,Femenino,16,Urbano,Cercanía,Sí,Sí,No,Sí,1
+541,Femenino,17,Urbano,Cercanía,Sí,No,Sí,Sí,1
+542,Femenino,17,Rural,Otro,Sí,No,No,Sí,5
+543,Femenino,16,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+544,Masculino,17,Rural,Plan de estudios,Sí,Sí,Sí,Sí,5
+545,Masculino,17,Rural,Plan de estudios,Sí,No,Sí,Sí,5
+546,Masculino,17,Urbano,Otro,Sí,Sí,Sí,No,5
+547,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,5
+548,Masculino,16,Rural,Otro,Sí,Sí,No,Sí,2
+549,Femenino,17,Urbano,Otro,Sí,Sí,Sí,Sí,3
+550,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,No,5
+551,Masculino,16,Urbano,Plan de estudios,Sí,Sí,Sí,No,5
+552,Masculino,17,Urbano,Otro,Sí,Sí,No,Sí,1
+553,Masculino,19,Urbano,Otro,No,Sí,No,Sí,4
+554,Masculino,17,Urbano,Cercanía,Sí,No,Sí,Sí,5
+555,Femenino,17,Rural,Plan de estudios,No,Sí,Sí,Sí,4
+556,Femenino,16,Rural,Cercanía,Sí,Sí,Sí,No,3
+557,Masculino,16,Rural,Plan de estudios,Sí,No,No,Sí,5
+558,Femenino,17,Rural,Plan de estudios,Sí,Sí,Sí,No,5
+559,Masculino,17,Rural,Plan de estudios,No,No,Sí,Sí,5
+560,Masculino,18,Rural,Plan de estudios,Sí,No,No,Sí,4
+561,Masculino,17,Rural,Plan de estudios,Sí,Sí,Sí,No,2
+562,Masculino,18,Urbano,Plan de estudios,Sí,No,No,Sí,5
+563,Femenino,16,Rural,Plan de estudios,Sí,No,Sí,Sí,1
+564,Masculino,17,Urbano,Plan de estudios,Sí,No,Sí,Sí,5
+565,Masculino,16,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+566,Masculino,16,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+567,Masculino,18,Rural,Plan de estudios,No,Sí,Sí,Sí,5
+568,Masculino,18,Rural,Plan de estudios,No,Sí,No,Sí,5
+569,Masculino,19,Urbano,Plan de estudios,Sí,No,No,Sí,3
+570,Masculino,18,Urbano,Plan de estudios,No,Sí,No,Sí,3
+571,Masculino,16,Rural,Plan de estudios,Sí,Sí,Sí,Sí,4
+572,Masculino,19,Urbano,Plan de estudios,No,Sí,Sí,No,5
+573,Femenino,16,Urbano,Plan de estudios,Sí,No,Sí,Sí,1
+574,Femenino,17,Urbano,Plan de estudios,Sí,No,No,Sí,5
+575,Masculino,20,Rural,Plan de estudios,No,Sí,Sí,Sí,4
+576,Femenino,18,Rural,Plan de estudios,Sí,Sí,No,Sí,2
+577,Masculino,18,Rural,Plan de estudios,Sí,Sí,No,No,5
+578,Masculino,19,Rural,Cercanía,Sí,Sí,No,Sí,2
+579,Masculino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+580,Masculino,18,Urbano,Plan de estudios,No,Sí,Sí,Sí,3
+581,Masculino,19,Rural,Cercanía,Sí,Sí,No,Sí,5
+582,Femenino,18,Urbano,Plan de estudios,Sí,No,No,Sí,5
+583,Femenino,19,Urbano,Plan de estudios,No,No,No,Sí,5
+584,Femenino,18,Rural,Otro,No,Sí,Sí,Sí,3
+585,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,5
+586,Femenino,17,Rural,Plan de estudios,No,No,No,Sí,3
+587,Femenino,17,Urbano,Cercanía,Sí,Sí,No,Sí,5
+588,Femenino,18,Rural,Plan de estudios,Sí,Sí,No,Sí,4
+589,Femenino,17,Urbano,Plan de estudios,Sí,No,Sí,Sí,5
+590,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,3
+591,Femenino,18,Urbano,Plan de estudios,Sí,No,Sí,Sí,5
+592,Femenino,18,Urbano,Reputación,Sí,Sí,No,No,1
+593,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+594,Femenino,18,Urbano,Reputación,Sí,Sí,No,Sí,4
+595,Femenino,18,Urbano,Reputación,Sí,Sí,No,No,1
+596,Masculino,18,Urbano,Reputación,Sí,Sí,No,Sí,5
+597,Femenino,17,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+598,Femenino,18,Rural,Plan de estudios,Sí,No,Sí,Sí,4
+599,Masculino,18,Urbano,Cercanía,Sí,No,No,No,1
+600,Masculino,18,Rural,Otro,Sí,Sí,Sí,Sí,1
+601,Masculino,17,Rural,Otro,No,No,No,No,4
+602,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,No,2
+603,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,3
+604,Femenino,18,Rural,Reputación,Sí,Sí,Sí,Sí,5
+605,Femenino,18,Urbano,Plan de estudios,No,No,No,Sí,2
+606,Femenino,19,Urbano,Otro,No,No,No,Sí,2
+607,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,5
+608,Femenino,17,Rural,Reputación,Sí,Sí,Sí,Sí,2
+609,Femenino,18,Urbano,Plan de estudios,Sí,No,Sí,Sí,3
+610,Femenino,18,Urbano,Plan de estudios,No,No,No,Sí,4
+611,Femenino,19,Rural,Plan de estudios,No,No,Sí,Sí,1
+612,Femenino,18,Rural,Cercanía,Sí,Sí,Sí,Sí,4
+613,Masculino,17,Rural,Cercanía,Sí,Sí,Sí,No,2
+614,Femenino,18,Urbano,Plan de estudios,Sí,No,Sí,Sí,5
+615,Femenino,17,Rural,Otro,Sí,Sí,No,Sí,5
+616,Femenino,17,Urbano,Reputación,Sí,No,Sí,Sí,5
+617,Masculino,18,Urbano,Cercanía,Sí,Sí,Sí,No,3
+618,Femenino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,4
+619,Femenino,18,Rural,Plan de estudios,Sí,No,Sí,Sí,5
+620,Femenino,18,Urbano,Otro,Sí,Sí,Sí,Sí,3
+621,Femenino,17,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,1
+622,Femenino,17,Rural,Plan de estudios,Sí,No,No,No,3
+623,Masculino,18,Rural,Plan de estudios,Sí,No,No,Sí,3
+624,Masculino,18,Urbano,Otro,Sí,Sí,Sí,Sí,5
+625,Femenino,17,Rural,Reputación,Sí,Sí,Sí,Sí,1
+626,Femenino,18,Urbano,Plan de estudios,Sí,Sí,Sí,Sí,4
+627,Femenino,18,Rural,Otro,Sí,Sí,Sí,No,5
+628,Masculino,18,Rural,Otro,No,Sí,Sí,Sí,3
+629,Femenino,17,Urbano,Cercanía,Sí,No,Sí,Sí,3
+630,Femenino,17,Rural,Plan de estudios,Sí,Sí,No,Sí,1
+631,Femenino,18,Rural,Reputación,Sí,Sí,No,Sí,1
+632,Femenino,18,Rural,Cercanía,Sí,Sí,No,Sí,4
+633,Femenino,19,Rural,Plan de estudios,Sí,Sí,Sí,Sí,3
+634,Femenino,18,Rural,Plan de estudios,Sí,Sí,No,Sí,2
+635,Femenino,18,Urbano,Cercanía,Sí,Sí,Sí,Sí,1
+636,Femenino,17,Rural,Reputación,Sí,Sí,No,No,1
+637,Masculino,18,Urbano,Cercanía,Sí,Sí,No,No,2
+638,Masculino,18,Rural,Otro,Sí,Sí,Sí,No,5
+639,Masculino,17,Urbano,Cercanía,Sí,Sí,No,Sí,3
+640,Masculino,19,Rural,Otro,Sí,No,No,Sí,5
+641,Masculino,18,Rural,Cercanía,Sí,No,No,Sí,3
+642,Femenino,18,Rural,Otro,Sí,No,No,Sí,4
+643,Femenino,17,Urbano,Otro,Sí,Sí,No,Sí,1
+644,Femenino,18,Rural,Reputación,Sí,Sí,Sí,Sí,5
+645,Femenino,19,Rural,Plan de estudios,Sí,Sí,No,No,5
+646,Femenino,18,Urbano,Plan de estudios,Sí,Sí,No,Sí,1
+647,Femenino,18,Urbano,Plan de estudios,Sí,No,No,Sí,5
+648,Masculino,17,Urbano,Plan de estudios,Sí,Sí,No,No,2
+649,Masculino,18,Rural,Plan de estudios,Sí,Sí,No,No,5

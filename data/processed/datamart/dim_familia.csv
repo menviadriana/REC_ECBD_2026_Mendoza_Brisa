@@ -1,0 +1,650 @@
+id_familia,tamano_familia,estado_padres,escolaridad_madre,escolaridad_padre,trabajo_madre,trabajo_padre,tutor,apoyo_familiar,relacion_familiar
+1,Más de 3,Separados,Superior,Superior,Hogar,Docente,Madre,No,4
+2,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Padre,Sí,5
+3,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,No,4
+4,Más de 3,Juntos,Superior,5° a 9°,Salud,Servicios,Madre,Sí,3
+5,Más de 3,Juntos,Secundaria,Secundaria,Otro,Otro,Padre,Sí,4
+6,3 o menos,Juntos,Superior,Secundaria,Servicios,Otro,Madre,Sí,5
+7,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,No,4
+8,Más de 3,Separados,Superior,Superior,Otro,Docente,Madre,Sí,4
+9,3 o menos,Separados,Secundaria,5° a 9°,Servicios,Otro,Madre,Sí,4
+10,Más de 3,Juntos,Secundaria,Superior,Otro,Otro,Madre,Sí,5
+11,Más de 3,Juntos,Superior,Superior,Docente,Salud,Madre,Sí,3
+12,Más de 3,Juntos,5° a 9°,Primaria (4°),Servicios,Otro,Padre,Sí,5
+13,3 o menos,Juntos,Superior,Superior,Salud,Servicios,Padre,Sí,4
+14,Más de 3,Juntos,Superior,Secundaria,Docente,Otro,Madre,Sí,5
+15,Más de 3,Separados,5° a 9°,5° a 9°,Otro,Otro,Otro,Sí,4
+16,Más de 3,Juntos,Superior,Superior,Salud,Otro,Madre,Sí,4
+17,Más de 3,Juntos,Superior,Superior,Servicios,Servicios,Madre,Sí,3
+18,Más de 3,Juntos,Secundaria,Secundaria,Otro,Otro,Madre,Sí,5
+19,Más de 3,Juntos,Secundaria,5° a 9°,Servicios,Servicios,Madre,Sí,5
+20,3 o menos,Juntos,Superior,Secundaria,Salud,Otro,Padre,No,3
+21,Más de 3,Juntos,Superior,Secundaria,Docente,Otro,Madre,No,4
+22,Más de 3,Juntos,Superior,Superior,Salud,Salud,Padre,Sí,5
+23,3 o menos,Juntos,Superior,5° a 9°,Docente,Otro,Madre,No,4
+24,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,5
+25,Más de 3,Juntos,5° a 9°,Superior,Servicios,Salud,Madre,Sí,4
+26,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,Sí,1
+27,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,4
+28,Más de 3,Juntos,Superior,5° a 9°,Salud,Servicios,Madre,No,2
+29,3 o menos,Separados,Secundaria,Superior,Servicios,Otro,Madre,Sí,5
+30,Más de 3,Juntos,Superior,Superior,Docente,Docente,Madre,Sí,4
+31,Más de 3,Juntos,Superior,Superior,Salud,Servicios,Madre,Sí,5
+32,Más de 3,Juntos,Superior,Superior,Servicios,Servicios,Madre,Sí,4
+33,Más de 3,Juntos,Superior,Secundaria,Docente,Hogar,Madre,Sí,4
+34,3 o menos,Juntos,Secundaria,Secundaria,Otro,Otro,Madre,No,5
+35,Más de 3,Juntos,Secundaria,5° a 9°,Otro,Otro,Madre,Sí,5
+36,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Otro,Padre,Sí,3
+37,3 o menos,Juntos,Superior,Secundaria,Docente,Servicios,Madre,Sí,5
+38,Más de 3,Separados,Superior,Superior,Otro,Docente,Madre,Sí,2
+39,Más de 3,Juntos,Secundaria,Superior,Servicios,Salud,Madre,Sí,4
+40,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,Sí,4
+41,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,3
+42,3 o menos,Juntos,Superior,Superior,Docente,Otro,Otro,Sí,5
+43,Más de 3,Juntos,Superior,Superior,Servicios,Docente,Padre,Sí,4
+44,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Padre,Sí,5
+45,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Hogar,Padre,No,4
+46,3 o menos,Separados,Superior,Secundaria,Otro,Otro,Madre,Sí,5
+47,3 o menos,Separados,Secundaria,Secundaria,Otro,Servicios,Madre,Sí,2
+48,Más de 3,Juntos,Superior,Secundaria,Salud,Servicios,Madre,No,4
+49,Más de 3,Juntos,Superior,5° a 9°,Docente,Otro,Madre,Sí,4
+50,Más de 3,Juntos,Superior,Superior,Servicios,Docente,Padre,Sí,4
+51,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,Sí,4
+52,3 o menos,Juntos,Superior,5° a 9°,Salud,Otro,Madre,Sí,4
+53,3 o menos,Separados,Superior,5° a 9°,Salud,Salud,Padre,No,5
+54,Más de 3,Juntos,Superior,Superior,Servicios,Servicios,Madre,Sí,3
+55,3 o menos,Separados,Secundaria,Secundaria,Otro,Otro,Madre,No,5
+56,Más de 3,Separados,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,5
+57,Más de 3,Separados,Superior,Secundaria,Servicios,Servicios,Madre,Sí,4
+58,Más de 3,Juntos,Superior,Superior,Docente,Salud,Madre,Sí,3
+59,3 o menos,Juntos,Primaria (4°),5° a 9°,Otro,Hogar,Padre,Sí,4
+60,Más de 3,Juntos,Superior,5° a 9°,Servicios,Otro,Madre,Sí,4
+61,Más de 3,Juntos,Superior,Superior,Salud,Docente,Madre,Sí,2
+62,Más de 3,Juntos,Primaria (4°),Primaria (4°),Servicios,Servicios,Padre,Sí,5
+63,3 o menos,Juntos,Primaria (4°),5° a 9°,Otro,Servicios,Padre,No,4
+64,Más de 3,Juntos,Superior,Secundaria,Docente,Salud,Madre,Sí,3
+65,3 o menos,Juntos,Superior,Secundaria,Servicios,Servicios,Padre,No,4
+66,3 o menos,Juntos,Superior,Secundaria,Docente,Servicios,Madre,Sí,5
+67,Más de 3,Separados,Superior,Superior,Otro,Servicios,Madre,Sí,1
+68,Más de 3,Juntos,Secundaria,Primaria (4°),Servicios,Otro,Madre,Sí,4
+69,3 o menos,Juntos,5° a 9°,5° a 9°,Salud,Servicios,Madre,Sí,4
+70,3 o menos,Juntos,Secundaria,Primaria (4°),Otro,Otro,Padre,Sí,4
+71,Más de 3,Juntos,Secundaria,Primaria (4°),Otro,Otro,Padre,Sí,4
+72,Más de 3,Juntos,Superior,5° a 9°,Otro,Otro,Madre,No,3
+73,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,Sí,3
+74,Más de 3,Juntos,Secundaria,Primaria (4°),Otro,Otro,Madre,No,5
+75,Más de 3,Juntos,Secundaria,Secundaria,Otro,Servicios,Madre,Sí,4
+76,Más de 3,Juntos,Superior,Secundaria,Docente,Otro,Madre,Sí,4
+77,Más de 3,Juntos,Superior,Ninguna,Docente,Otro,Madre,No,3
+78,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,No,5
+79,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,Sí,4
+80,Más de 3,Juntos,Secundaria,Superior,Hogar,Otro,Madre,Sí,2
+81,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Servicios,Padre,Sí,3
+82,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Otro,Madre,No,5
+83,3 o menos,Juntos,Secundaria,5° a 9°,Servicios,Otro,Madre,Sí,4
+84,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,No,5
+85,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Padre,Sí,4
+86,Más de 3,Juntos,Superior,Superior,Servicios,Servicios,Padre,No,4
+87,3 o menos,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,Sí,4
+88,Más de 3,Juntos,Superior,5° a 9°,Otro,Otro,Madre,Sí,5
+89,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Otro,Padre,No,4
+90,3 o menos,Separados,Superior,Superior,Docente,Salud,Madre,Sí,4
+91,Más de 3,Juntos,Secundaria,Secundaria,Otro,Otro,Madre,Sí,4
+92,Más de 3,Juntos,Superior,Secundaria,Servicios,Otro,Madre,No,4
+93,3 o menos,Juntos,Secundaria,Primaria (4°),Otro,Otro,Padre,Sí,3
+94,Más de 3,Juntos,Superior,5° a 9°,Docente,Servicios,Madre,Sí,5
+95,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Salud,Madre,Sí,4
+96,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,3
+97,Más de 3,Juntos,Superior,Secundaria,Servicios,Otro,Madre,Sí,3
+98,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,Sí,4
+99,Más de 3,Juntos,Superior,Superior,Otro,Otro,Madre,No,5
+100,Más de 3,Juntos,Superior,Secundaria,Otro,Hogar,Madre,Sí,5
+101,Más de 3,Juntos,Superior,Superior,Servicios,Servicios,Madre,Sí,4
+102,Más de 3,Juntos,Superior,Superior,Servicios,Docente,Padre,Sí,4
+103,Más de 3,Juntos,Superior,Superior,Servicios,Otro,Madre,Sí,5
+104,Más de 3,Juntos,Secundaria,5° a 9°,Servicios,Otro,Madre,Sí,4
+105,Más de 3,Separados,Secundaria,Superior,Servicios,Otro,Madre,Sí,5
+106,Más de 3,Separados,Secundaria,Secundaria,Otro,Salud,Padre,No,4
+107,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,5
+108,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Otro,Padre,Sí,5
+109,Más de 3,Juntos,Superior,Superior,Otro,Otro,Padre,Sí,1
+110,3 o menos,Juntos,Superior,Superior,Salud,Salud,Madre,Sí,5
+111,3 o menos,Separados,Superior,Superior,Docente,Docente,Madre,No,5
+112,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Otro,Padre,Sí,4
+113,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,No,3
+114,3 o menos,Juntos,Superior,5° a 9°,Docente,Otro,Madre,No,3
+115,Más de 3,Juntos,5° a 9°,Primaria (4°),Salud,Servicios,Madre,No,5
+116,Más de 3,Juntos,Superior,Superior,Docente,Docente,Padre,Sí,5
+117,Más de 3,Juntos,Superior,Superior,Otro,Docente,Padre,Sí,4
+118,Más de 3,Juntos,Secundaria,Secundaria,Otro,Servicios,Padre,No,5
+119,Más de 3,Juntos,Primaria (4°),Secundaria,Otro,Otro,Padre,Sí,5
+120,Más de 3,Juntos,Secundaria,Superior,Otro,Otro,Padre,No,3
+121,Más de 3,Juntos,Primaria (4°),5° a 9°,Hogar,Servicios,Madre,No,3
+122,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Padre,Sí,5
+123,3 o menos,Juntos,5° a 9°,Superior,Otro,Salud,Padre,Sí,4
+124,Más de 3,Juntos,Superior,Superior,Salud,Otro,Madre,Sí,3
+125,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,No,5
+126,Más de 3,Juntos,Secundaria,Superior,Servicios,Servicios,Padre,No,5
+127,3 o menos,Separados,Secundaria,Superior,Otro,Otro,Madre,No,5
+128,Más de 3,Juntos,Ninguna,Primaria (4°),Hogar,Otro,Otro,Sí,3
+129,Más de 3,Juntos,Superior,Superior,Docente,Docente,Madre,No,3
+130,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Otro,Madre,Sí,3
+131,Más de 3,Juntos,Secundaria,Superior,Servicios,Docente,Padre,Sí,4
+132,Más de 3,Juntos,5° a 9°,Primaria (4°),Servicios,Otro,Madre,Sí,5
+133,3 o menos,Separados,5° a 9°,Primaria (4°),Otro,Otro,Madre,Sí,3
+134,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,4
+135,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Padre,Sí,3
+136,Más de 3,Separados,Secundaria,Superior,Servicios,Otro,Padre,No,3
+137,Más de 3,Juntos,5° a 9°,Primaria (4°),Hogar,Otro,Madre,No,3
+138,Más de 3,Separados,5° a 9°,5° a 9°,Otro,Otro,Madre,No,5
+139,Más de 3,Juntos,Secundaria,Superior,Hogar,Docente,Madre,Sí,5
+140,Más de 3,Juntos,Superior,Superior,Servicios,Hogar,Madre,Sí,4
+141,Más de 3,Juntos,Secundaria,Superior,Hogar,Otro,Madre,No,5
+142,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,5
+143,3 o menos,Juntos,Secundaria,Primaria (4°),Servicios,Servicios,Madre,No,3
+144,Más de 3,Separados,Secundaria,5° a 9°,Otro,Servicios,Otro,Sí,4
+145,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Madre,Sí,3
+146,Más de 3,Separados,Secundaria,Secundaria,Otro,Otro,Otro,Sí,4
+147,3 o menos,Juntos,Primaria (4°),Primaria (4°),Servicios,Otro,Madre,No,4
+148,Más de 3,Juntos,Superior,Superior,Docente,Docente,Madre,No,4
+149,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,No,5
+150,Más de 3,Juntos,Superior,Secundaria,Docente,Servicios,Padre,Sí,2
+151,Más de 3,Separados,Secundaria,Secundaria,Servicios,Servicios,Madre,No,1
+152,Más de 3,Juntos,Superior,Superior,Servicios,Servicios,Madre,Sí,5
+153,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Padre,Sí,2
+154,Más de 3,Juntos,Superior,Superior,Docente,Servicios,Madre,Sí,4
+155,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Hogar,Madre,No,3
+156,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,Sí,5
+157,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Padre,Sí,4
+158,3 o menos,Separados,5° a 9°,Primaria (4°),Hogar,Otro,Madre,Sí,4
+159,Más de 3,Juntos,Secundaria,5° a 9°,Salud,Servicios,Padre,Sí,3
+160,Más de 3,Juntos,Primaria (4°),5° a 9°,Hogar,Otro,Madre,Sí,4
+161,Más de 3,Juntos,Primaria (4°),5° a 9°,Hogar,Servicios,Padre,No,2
+162,Más de 3,Juntos,Superior,Superior,Docente,Docente,Madre,Sí,3
+163,3 o menos,Separados,5° a 9°,Primaria (4°),Servicios,Otro,Madre,No,4
+164,3 o menos,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,No,2
+165,3 o menos,Juntos,5° a 9°,Primaria (4°),Hogar,Otro,Madre,No,4
+166,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Servicios,Otro,Sí,4
+167,Más de 3,Juntos,Secundaria,5° a 9°,Servicios,Hogar,Madre,Sí,4
+168,Más de 3,Juntos,Superior,Superior,Otro,Docente,Madre,Sí,4
+169,Más de 3,Juntos,5° a 9°,Secundaria,Hogar,Servicios,Madre,No,4
+170,3 o menos,Juntos,Primaria (4°),5° a 9°,Otro,Otro,Madre,No,2
+171,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,5
+172,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,No,4
+173,Más de 3,Juntos,Secundaria,Secundaria,Otro,Servicios,Padre,Sí,4
+174,3 o menos,Juntos,Primaria (4°),5° a 9°,Salud,Servicios,Madre,No,4
+175,3 o menos,Juntos,5° a 9°,Primaria (4°),Hogar,Otro,Madre,No,3
+176,Más de 3,Juntos,Secundaria,5° a 9°,Otro,Otro,Madre,Sí,4
+177,3 o menos,Juntos,Primaria (4°),5° a 9°,Otro,Otro,Madre,No,4
+178,Más de 3,Juntos,Primaria (4°),Secundaria,Hogar,Servicios,Padre,No,5
+179,3 o menos,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Madre,No,5
+180,Más de 3,Juntos,Secundaria,5° a 9°,Servicios,Servicios,Madre,Sí,4
+181,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Padre,No,4
+182,Más de 3,Juntos,Superior,5° a 9°,Salud,Servicios,Padre,No,4
+183,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,5
+184,Más de 3,Juntos,Superior,Superior,Salud,Salud,Madre,Sí,4
+185,Más de 3,Juntos,Secundaria,Superior,Otro,Otro,Padre,Sí,3
+186,Más de 3,Juntos,Primaria (4°),Ninguna,Otro,Otro,Madre,Sí,4
+187,3 o menos,Juntos,Superior,Superior,Docente,Otro,Madre,Sí,4
+188,Más de 3,Juntos,Primaria (4°),Secundaria,Hogar,Servicios,Madre,No,4
+189,3 o menos,Juntos,Secundaria,Secundaria,Otro,Otro,Madre,Sí,4
+190,3 o menos,Juntos,Superior,Secundaria,Docente,Otro,Madre,No,4
+191,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Otro,Madre,No,3
+192,Más de 3,Juntos,Secundaria,Secundaria,Otro,Otro,Padre,No,4
+193,Más de 3,Juntos,Superior,5° a 9°,Docente,Servicios,Madre,Sí,4
+194,Más de 3,Juntos,Superior,Secundaria,Otro,Otro,Madre,Sí,5
+195,Más de 3,Juntos,Superior,Secundaria,Docente,Otro,Madre,Sí,3
+196,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Otro,Madre,No,4
+197,Más de 3,Juntos,5° a 9°,Superior,Servicios,Servicios,Padre,Sí,5
+198,3 o menos,Juntos,Secundaria,Secundaria,Otro,Otro,Madre,Sí,5
+199,Más de 3,Juntos,Secundaria,5° a 9°,Otro,Otro,Madre,Sí,1
+200,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Servicios,Madre,Sí,4
+201,Más de 3,Juntos,Primaria (4°),5° a 9°,Servicios,Servicios,Madre,Sí,3
+202,3 o menos,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,4
+203,Más de 3,Separados,Secundaria,Secundaria,Salud,Otro,Madre,Sí,3
+204,Más de 3,Juntos,Primaria (4°),5° a 9°,Hogar,Otro,Madre,No,3
+205,Más de 3,Juntos,5° a 9°,Secundaria,Servicios,Servicios,Madre,No,4
+206,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Servicios,Madre,No,5
+207,Más de 3,Juntos,Primaria (4°),5° a 9°,Hogar,Servicios,Otro,No,4
+208,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Servicios,Madre,Sí,4
+209,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Otro,Padre,No,5
+210,3 o menos,Juntos,5° a 9°,Superior,Servicios,Servicios,Padre,No,4
+211,Más de 3,Juntos,Superior,Superior,Servicios,Docente,Madre,No,5
+212,3 o menos,Juntos,Secundaria,Secundaria,Docente,Otro,Padre,Sí,3
+213,Más de 3,Juntos,Superior,Superior,Servicios,Docente,Madre,Sí,4
+214,3 o menos,Juntos,Superior,Superior,Docente,Docente,Madre,Sí,4
+215,Más de 3,Juntos,Superior,Secundaria,Salud,Otro,Madre,Sí,4
+216,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Otro,Madre,Sí,4
+217,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,Sí,4
+218,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,5
+219,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,Sí,5
+220,Más de 3,Juntos,Secundaria,Superior,Hogar,Servicios,Madre,Sí,4
+221,Más de 3,Separados,Secundaria,Primaria (4°),Servicios,Otro,Madre,Sí,2
+222,Más de 3,Juntos,Superior,Secundaria,Docente,Otro,Madre,No,1
+223,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,4
+224,Más de 3,Juntos,Superior,Secundaria,Docente,Otro,Madre,Sí,4
+225,Más de 3,Juntos,Secundaria,Secundaria,Otro,Otro,Otro,Sí,4
+226,3 o menos,Juntos,Superior,Superior,Servicios,Otro,Madre,Sí,5
+227,Más de 3,Separados,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,3
+228,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Otro,Madre,Sí,4
+229,3 o menos,Juntos,Superior,Superior,Servicios,Otro,Madre,Sí,5
+230,3 o menos,Juntos,Secundaria,5° a 9°,Otro,Otro,Madre,No,4
+231,Más de 3,Juntos,Superior,Secundaria,Otro,Otro,Madre,No,3
+232,3 o menos,Juntos,Secundaria,Secundaria,Servicios,Salud,Padre,Sí,3
+233,Más de 3,Juntos,5° a 9°,Secundaria,Hogar,Otro,Padre,Sí,3
+234,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Hogar,Madre,Sí,4
+235,Más de 3,Juntos,5° a 9°,Primaria (4°),Hogar,Servicios,Madre,Sí,4
+236,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,4
+237,Más de 3,Juntos,5° a 9°,Secundaria,Servicios,Docente,Madre,No,2
+238,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,3
+239,Más de 3,Juntos,Superior,Superior,Docente,Servicios,Madre,Sí,5
+240,Más de 3,Juntos,Secundaria,Primaria (4°),Otro,Otro,Madre,No,5
+241,Más de 3,Juntos,Secundaria,5° a 9°,Otro,Otro,Madre,No,5
+242,3 o menos,Juntos,5° a 9°,Secundaria,Servicios,Servicios,Padre,Sí,5
+243,3 o menos,Juntos,5° a 9°,Primaria (4°),Hogar,Otro,Madre,Sí,4
+244,Más de 3,Separados,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,3
+245,3 o menos,Juntos,Superior,Secundaria,Salud,Otro,Padre,No,3
+246,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Padre,Sí,4
+247,Más de 3,Juntos,Superior,Superior,Docente,Docente,Madre,Sí,4
+248,Más de 3,Juntos,Superior,Superior,Salud,Otro,Padre,Sí,4
+249,3 o menos,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,Sí,3
+250,Más de 3,Juntos,Secundaria,5° a 9°,Hogar,Otro,Madre,No,5
+251,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Padre,No,4
+252,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,4
+253,Más de 3,Separados,Superior,Primaria (4°),Otro,Otro,Madre,No,5
+254,3 o menos,Separados,5° a 9°,Superior,Servicios,Otro,Madre,Sí,4
+255,3 o menos,Juntos,5° a 9°,5° a 9°,Hogar,Servicios,Madre,Sí,5
+256,Más de 3,Juntos,Secundaria,Secundaria,Otro,Otro,Madre,No,4
+257,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Hogar,Otro,Sí,4
+258,Más de 3,Juntos,Superior,Superior,Docente,Docente,Madre,Sí,4
+259,Más de 3,Juntos,Secundaria,5° a 9°,Otro,Otro,Padre,No,5
+260,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Hogar,Madre,Sí,4
+261,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Otro,Madre,No,5
+262,Más de 3,Juntos,5° a 9°,Primaria (4°),Hogar,Servicios,Madre,No,2
+263,3 o menos,Separados,Primaria (4°),Superior,Otro,Otro,Otro,Sí,5
+264,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Servicios,Padre,No,5
+265,3 o menos,Separados,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,3
+266,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,No,4
+267,3 o menos,Separados,Superior,5° a 9°,Docente,Otro,Madre,Sí,4
+268,3 o menos,Juntos,Superior,Secundaria,Salud,Otro,Madre,No,2
+269,3 o menos,Separados,Superior,Superior,Docente,Otro,Madre,Sí,3
+270,3 o menos,Juntos,Superior,Secundaria,Docente,Otro,Madre,No,5
+271,Más de 3,Juntos,Superior,Superior,Servicios,Servicios,Madre,No,5
+272,Más de 3,Juntos,Superior,Superior,Docente,Servicios,Madre,Sí,5
+273,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Padre,No,4
+274,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Otro,Madre,Sí,4
+275,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,No,4
+276,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Otro,Sí,4
+277,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,4
+278,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Padre,Sí,4
+279,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Otro,Padre,No,5
+280,Más de 3,Juntos,Secundaria,Primaria (4°),Servicios,Servicios,Madre,No,5
+281,3 o menos,Juntos,Secundaria,Secundaria,Otro,Servicios,Madre,Sí,4
+282,Más de 3,Juntos,Ninguna,5° a 9°,Otro,Otro,Madre,No,4
+283,Más de 3,Juntos,Secundaria,5° a 9°,Servicios,Otro,Madre,No,4
+284,Más de 3,Juntos,Secundaria,Secundaria,Hogar,Otro,Otro,Sí,5
+285,Más de 3,Juntos,5° a 9°,Primaria (4°),Servicios,Servicios,Madre,No,3
+286,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,3
+287,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,4
+288,3 o menos,Juntos,Primaria (4°),Primaria (4°),Salud,Otro,Madre,Sí,4
+289,3 o menos,Separados,5° a 9°,Primaria (4°),Otro,Otro,Madre,Sí,4
+290,3 o menos,Juntos,Superior,5° a 9°,Docente,Servicios,Madre,Sí,4
+291,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,Sí,4
+292,3 o menos,Juntos,5° a 9°,Primaria (4°),Servicios,Otro,Madre,No,4
+293,Más de 3,Juntos,Superior,5° a 9°,Otro,Otro,Madre,Sí,4
+294,3 o menos,Juntos,Primaria (4°),Primaria (4°),Otro,Hogar,Madre,Sí,4
+295,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,No,3
+296,3 o menos,Separados,Superior,Secundaria,Servicios,Hogar,Madre,Sí,4
+297,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,5
+298,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Servicios,Madre,No,5
+299,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Padre,No,3
+300,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Otro,Sí,1
+301,Más de 3,Juntos,Superior,Secundaria,Servicios,Otro,Padre,Sí,3
+302,Más de 3,Juntos,Superior,Secundaria,Docente,Otro,Madre,Sí,4
+303,Más de 3,Juntos,Secundaria,5° a 9°,Otro,Otro,Madre,No,5
+304,Más de 3,Juntos,Secundaria,Secundaria,Otro,Otro,Madre,No,3
+305,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Servicios,Madre,Sí,4
+306,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Padre,No,4
+307,3 o menos,Separados,Secundaria,Superior,Otro,Otro,Madre,Sí,4
+308,Más de 3,Juntos,Secundaria,Primaria (4°),Servicios,Otro,Madre,No,5
+309,Más de 3,Juntos,Superior,Superior,Docente,Otro,Madre,No,4
+310,Más de 3,Juntos,Superior,5° a 9°,Salud,Otro,Padre,Sí,5
+311,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,Sí,4
+312,Más de 3,Juntos,Secundaria,Secundaria,Otro,Servicios,Otro,Sí,4
+313,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Servicios,Padre,Sí,4
+314,3 o menos,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,Sí,4
+315,Más de 3,Juntos,Primaria (4°),5° a 9°,Hogar,Hogar,Madre,Sí,3
+316,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,Sí,4
+317,Más de 3,Juntos,5° a 9°,Superior,Hogar,Salud,Madre,Sí,4
+318,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Otro,Madre,Sí,4
+319,Más de 3,Separados,Secundaria,5° a 9°,Otro,Servicios,Madre,No,4
+320,Más de 3,Juntos,Superior,Superior,Docente,Servicios,Madre,No,3
+321,Más de 3,Juntos,Superior,Superior,Salud,Salud,Padre,Sí,2
+322,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Servicios,Padre,Sí,4
+323,Más de 3,Juntos,Secundaria,5° a 9°,Servicios,Servicios,Padre,Sí,3
+324,3 o menos,Juntos,Superior,Secundaria,Docente,Servicios,Madre,No,4
+325,Más de 3,Juntos,Primaria (4°),5° a 9°,Hogar,Otro,Otro,No,3
+326,3 o menos,Separados,Superior,Primaria (4°),Servicios,Otro,Madre,No,4
+327,3 o menos,Separados,Secundaria,5° a 9°,Docente,Servicios,Madre,No,4
+328,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,5
+329,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,No,5
+330,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,5
+331,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,4
+332,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Padre,No,4
+333,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Hogar,Madre,Sí,4
+334,Más de 3,Juntos,Primaria (4°),Primaria (4°),Servicios,Docente,Madre,Sí,4
+335,Más de 3,Juntos,5° a 9°,Primaria (4°),Servicios,Servicios,Madre,No,4
+336,3 o menos,Separados,Superior,Superior,Docente,Docente,Madre,Sí,5
+337,Más de 3,Juntos,Superior,5° a 9°,Docente,Otro,Madre,Sí,4
+338,Más de 3,Juntos,Superior,Secundaria,Salud,Servicios,Madre,Sí,4
+339,3 o menos,Juntos,Secundaria,Primaria (4°),Servicios,Otro,Madre,Sí,3
+340,3 o menos,Juntos,Secundaria,5° a 9°,Servicios,Otro,Madre,Sí,5
+341,Más de 3,Juntos,Secundaria,Secundaria,Salud,Otro,Madre,Sí,4
+342,Más de 3,Juntos,Superior,Superior,Salud,Otro,Otro,Sí,2
+343,3 o menos,Juntos,Superior,Secundaria,Otro,Otro,Otro,Sí,4
+344,Más de 3,Juntos,Superior,Secundaria,Otro,Otro,Padre,Sí,4
+345,3 o menos,Juntos,Superior,Superior,Docente,Docente,Madre,Sí,1
+346,3 o menos,Separados,Superior,Superior,Salud,Otro,Madre,Sí,4
+347,3 o menos,Juntos,Superior,Superior,Otro,Docente,Padre,No,4
+348,Más de 3,Juntos,Superior,Superior,Servicios,Servicios,Madre,Sí,5
+349,Más de 3,Juntos,Superior,5° a 9°,Otro,Otro,Madre,Sí,4
+350,Más de 3,Juntos,Secundaria,5° a 9°,Salud,Salud,Padre,Sí,5
+351,3 o menos,Juntos,5° a 9°,Primaria (4°),Hogar,Servicios,Madre,No,4
+352,Más de 3,Separados,Secundaria,5° a 9°,Servicios,Otro,Otro,No,5
+353,Más de 3,Juntos,Secundaria,Secundaria,Otro,Servicios,Padre,No,4
+354,Más de 3,Juntos,Primaria (4°),Superior,Otro,Docente,Madre,Sí,3
+355,Más de 3,Juntos,5° a 9°,Primaria (4°),Servicios,Otro,Madre,Sí,5
+356,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Otro,Padre,No,4
+357,Más de 3,Juntos,Superior,Superior,Docente,Docente,Madre,No,4
+358,Más de 3,Juntos,Superior,Secundaria,Otro,Otro,Madre,Sí,4
+359,3 o menos,Juntos,Superior,Secundaria,Salud,Servicios,Madre,Sí,3
+360,Más de 3,Juntos,Secundaria,Superior,Hogar,Servicios,Padre,Sí,4
+361,Más de 3,Juntos,Secundaria,Secundaria,Hogar,Otro,Padre,Sí,4
+362,Más de 3,Juntos,Superior,5° a 9°,Salud,Otro,Madre,Sí,5
+363,Más de 3,Juntos,Superior,Superior,Docente,Otro,Madre,Sí,4
+364,Más de 3,Juntos,Secundaria,Superior,Otro,Otro,Madre,Sí,5
+365,Más de 3,Juntos,Superior,Superior,Salud,Salud,Madre,No,5
+366,Más de 3,Separados,Superior,Secundaria,Servicios,Servicios,Madre,Sí,5
+367,3 o menos,Separados,Secundaria,Secundaria,Servicios,Otro,Madre,Sí,5
+368,3 o menos,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Padre,No,4
+369,3 o menos,Juntos,Superior,Superior,Otro,Otro,Padre,Sí,4
+370,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Otro,No,1
+371,3 o menos,Separados,Primaria (4°),Primaria (4°),Otro,Otro,Otro,Sí,5
+372,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,4
+373,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,4
+374,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,Sí,3
+375,Más de 3,Juntos,Secundaria,Primaria (4°),Servicios,Servicios,Padre,Sí,3
+376,3 o menos,Juntos,Ninguna,5° a 9°,Hogar,Hogar,Padre,No,3
+377,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,No,4
+378,Más de 3,Juntos,Superior,Superior,Otro,Otro,Madre,No,4
+379,Más de 3,Juntos,Secundaria,Secundaria,Otro,Servicios,Madre,No,4
+380,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Otro,Madre,Sí,4
+381,Más de 3,Juntos,Superior,Superior,Docente,Servicios,Madre,Sí,5
+382,Más de 3,Juntos,Superior,Superior,Docente,Docente,Madre,Sí,4
+383,Más de 3,Juntos,Secundaria,Secundaria,Hogar,Otro,Madre,Sí,4
+384,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,4
+385,Más de 3,Juntos,Secundaria,5° a 9°,Hogar,Servicios,Otro,Sí,5
+386,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,No,4
+387,Más de 3,Juntos,5° a 9°,Superior,Hogar,Otro,Padre,Sí,4
+388,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,No,5
+389,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Servicios,Madre,No,5
+390,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Otro,No,4
+391,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,No,4
+392,Más de 3,Juntos,Secundaria,Superior,Servicios,Otro,Madre,No,4
+393,Más de 3,Juntos,Secundaria,5° a 9°,Otro,Otro,Madre,Sí,4
+394,3 o menos,Juntos,Secundaria,Secundaria,Servicios,Servicios,Madre,Sí,5
+395,Más de 3,Separados,Secundaria,5° a 9°,Otro,Otro,Madre,Sí,4
+396,Más de 3,Juntos,Superior,Superior,Docente,Servicios,Padre,Sí,4
+397,3 o menos,Juntos,Secundaria,Superior,Servicios,Otro,Madre,No,4
+398,Más de 3,Separados,5° a 9°,5° a 9°,Hogar,Hogar,Padre,Sí,3
+399,Más de 3,Juntos,5° a 9°,Secundaria,Hogar,Otro,Madre,Sí,4
+400,Más de 3,Juntos,Secundaria,5° a 9°,Otro,Servicios,Madre,No,5
+401,Más de 3,Juntos,Superior,Secundaria,Docente,Servicios,Madre,No,5
+402,Más de 3,Juntos,Superior,Secundaria,Docente,Otro,Madre,Sí,5
+403,Más de 3,Juntos,Superior,Secundaria,Salud,Otro,Madre,Sí,4
+404,Más de 3,Juntos,5° a 9°,Primaria (4°),Servicios,Otro,Madre,Sí,4
+405,Más de 3,Juntos,5° a 9°,Primaria (4°),Servicios,Otro,Madre,Sí,4
+406,3 o menos,Separados,5° a 9°,Secundaria,Hogar,Otro,Otro,No,2
+407,Más de 3,Juntos,Secundaria,Primaria (4°),Otro,Hogar,Madre,Sí,4
+408,3 o menos,Juntos,Superior,Superior,Otro,Otro,Otro,No,3
+409,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,Sí,4
+410,3 o menos,Separados,Secundaria,Superior,Otro,Otro,Otro,No,4
+411,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,Sí,4
+412,3 o menos,Separados,Superior,Superior,Salud,Otro,Madre,Sí,4
+413,3 o menos,Juntos,Superior,5° a 9°,Docente,Otro,Madre,Sí,4
+414,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Otro,Sí,5
+415,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Otro,No,3
+416,Más de 3,Juntos,Superior,Superior,Docente,Otro,Otro,Sí,3
+417,3 o menos,Separados,Secundaria,5° a 9°,Otro,Otro,Madre,Sí,4
+418,Más de 3,Juntos,Secundaria,5° a 9°,Hogar,Otro,Padre,Sí,4
+419,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Servicios,Padre,No,3
+420,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,5
+421,3 o menos,Separados,5° a 9°,5° a 9°,Servicios,Otro,Madre,Sí,4
+422,Más de 3,Juntos,Primaria (4°),Ninguna,Otro,Otro,Madre,No,5
+423,Más de 3,Juntos,Secundaria,5° a 9°,Servicios,Otro,Madre,Sí,3
+424,Más de 3,Juntos,Primaria (4°),Secundaria,Hogar,Otro,Padre,Sí,4
+425,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,4
+426,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Servicios,Madre,Sí,4
+427,Más de 3,Juntos,Secundaria,Secundaria,Hogar,Otro,Madre,Sí,5
+428,Más de 3,Juntos,5° a 9°,Secundaria,Hogar,Servicios,Madre,No,4
+429,3 o menos,Juntos,5° a 9°,Primaria (4°),Hogar,Otro,Madre,No,1
+430,3 o menos,Separados,Superior,Superior,Hogar,Otro,Madre,Sí,5
+431,Más de 3,Separados,Primaria (4°),5° a 9°,Otro,Otro,Madre,No,4
+432,Más de 3,Juntos,Secundaria,5° a 9°,Hogar,Otro,Padre,No,4
+433,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Padre,Sí,5
+434,Más de 3,Juntos,Superior,Superior,Docente,Otro,Madre,No,1
+435,3 o menos,Separados,5° a 9°,5° a 9°,Hogar,Otro,Madre,No,1
+436,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Servicios,Padre,Sí,5
+437,3 o menos,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Madre,Sí,4
+438,Más de 3,Juntos,Ninguna,5° a 9°,Otro,Otro,Madre,Sí,3
+439,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Otro,Madre,Sí,5
+440,Más de 3,Juntos,Secundaria,Secundaria,Otro,Servicios,Padre,No,4
+441,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Servicios,Madre,Sí,5
+442,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,No,4
+443,3 o menos,Juntos,Superior,Primaria (4°),Salud,Servicios,Padre,Sí,5
+444,3 o menos,Juntos,Superior,Primaria (4°),Salud,Servicios,Padre,Sí,5
+445,Más de 3,Juntos,Secundaria,Superior,Otro,Salud,Madre,No,3
+446,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,Sí,5
+447,3 o menos,Juntos,Secundaria,Secundaria,Hogar,Hogar,Padre,Sí,5
+448,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,5
+449,Más de 3,Juntos,Superior,Superior,Docente,Docente,Madre,No,4
+450,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Servicios,Madre,No,5
+451,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Servicios,Madre,Sí,4
+452,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Otro,Padre,No,4
+453,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,4
+454,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Servicios,Madre,Sí,1
+455,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Servicios,Madre,Sí,1
+456,Más de 3,Juntos,5° a 9°,Primaria (4°),Hogar,Otro,Madre,Sí,4
+457,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Padre,Sí,5
+458,3 o menos,Juntos,Primaria (4°),5° a 9°,Hogar,Servicios,Madre,Sí,5
+459,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Padre,Sí,4
+460,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Padre,Sí,4
+461,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Padre,Sí,4
+462,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,No,4
+463,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Hogar,Padre,Sí,4
+464,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Padre,Sí,4
+465,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Padre,No,3
+466,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Otro,Padre,Sí,3
+467,Más de 3,Juntos,Secundaria,Primaria (4°),Otro,Servicios,Madre,Sí,3
+468,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Servicios,Padre,Sí,5
+469,Más de 3,Juntos,5° a 9°,5° a 9°,Salud,Otro,Madre,No,4
+470,Más de 3,Juntos,Superior,Superior,Otro,Docente,Padre,Sí,4
+471,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Otro,Madre,Sí,4
+472,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,Sí,4
+473,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Padre,Sí,4
+474,3 o menos,Juntos,5° a 9°,Primaria (4°),Hogar,Servicios,Madre,Sí,2
+475,3 o menos,Juntos,Primaria (4°),Secundaria,Hogar,Otro,Padre,Sí,4
+476,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Servicios,Madre,Sí,5
+477,3 o menos,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,Sí,5
+478,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Servicios,Padre,Sí,4
+479,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Padre,Sí,3
+480,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Hogar,Madre,Sí,4
+481,Más de 3,Juntos,5° a 9°,Secundaria,Hogar,Servicios,Otro,No,4
+482,Más de 3,Juntos,5° a 9°,Primaria (4°),Hogar,Otro,Madre,Sí,5
+483,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,5
+484,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Padre,Sí,3
+485,3 o menos,Separados,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,4
+486,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,Sí,4
+487,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Servicios,Padre,Sí,4
+488,3 o menos,Separados,Secundaria,5° a 9°,Otro,Otro,Otro,Sí,3
+489,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Servicios,Madre,No,5
+490,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,No,4
+491,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Hogar,Madre,No,3
+492,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Otro,Sí,1
+493,Más de 3,Separados,5° a 9°,5° a 9°,Salud,Otro,Madre,No,3
+494,Más de 3,Juntos,Ninguna,Primaria (4°),Otro,Hogar,Padre,No,2
+495,3 o menos,Juntos,Primaria (4°),5° a 9°,Hogar,Otro,Madre,No,4
+496,Más de 3,Juntos,Secundaria,Secundaria,Otro,Otro,Madre,No,4
+497,3 o menos,Juntos,Primaria (4°),Primaria (4°),Servicios,Servicios,Madre,Sí,4
+498,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Hogar,Madre,Sí,5
+499,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Servicios,Madre,Sí,5
+500,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Otro,Madre,Sí,4
+501,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Otro,Padre,Sí,5
+502,3 o menos,Juntos,Superior,Secundaria,Otro,Otro,Padre,No,4
+503,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,Sí,1
+504,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Otro,Sí,2
+505,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,No,5
+506,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,4
+507,Más de 3,Juntos,Secundaria,Secundaria,Hogar,Servicios,Madre,No,3
+508,3 o menos,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Padre,Sí,4
+509,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,4
+510,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Padre,Sí,5
+511,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,5
+512,Más de 3,Separados,Primaria (4°),Ninguna,Otro,Otro,Madre,No,4
+513,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,4
+514,Más de 3,Juntos,Secundaria,Primaria (4°),Otro,Otro,Madre,No,3
+515,Más de 3,Juntos,Secundaria,5° a 9°,Servicios,Hogar,Madre,No,3
+516,3 o menos,Juntos,Primaria (4°),Primaria (4°),Otro,Hogar,Madre,No,2
+517,Más de 3,Juntos,Superior,Superior,Salud,Docente,Padre,No,4
+518,3 o menos,Juntos,Primaria (4°),5° a 9°,Otro,Otro,Madre,No,5
+519,Más de 3,Separados,5° a 9°,Superior,Otro,Servicios,Padre,Sí,2
+520,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Servicios,Madre,No,5
+521,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,4
+522,Más de 3,Juntos,5° a 9°,Secundaria,Hogar,Servicios,Madre,Sí,3
+523,Más de 3,Juntos,Superior,Superior,Salud,Salud,Madre,Sí,4
+524,3 o menos,Juntos,Superior,Superior,Hogar,Salud,Madre,Sí,5
+525,3 o menos,Juntos,Secundaria,Superior,Hogar,Otro,Madre,Sí,4
+526,3 o menos,Juntos,Superior,Superior,Otro,Servicios,Madre,Sí,4
+527,Más de 3,Juntos,Superior,Primaria (4°),Otro,Otro,Madre,No,4
+528,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,No,5
+529,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,Sí,5
+530,3 o menos,Juntos,Superior,Superior,Servicios,Servicios,Padre,Sí,5
+531,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Servicios,Madre,Sí,4
+532,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Servicios,Madre,No,5
+533,Más de 3,Juntos,5° a 9°,Primaria (4°),Salud,Servicios,Madre,No,4
+534,3 o menos,Juntos,5° a 9°,Primaria (4°),Otro,Servicios,Madre,No,3
+535,3 o menos,Juntos,Superior,Superior,Docente,Salud,Padre,Sí,4
+536,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Servicios,Madre,Sí,5
+537,3 o menos,Separados,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,5
+538,3 o menos,Separados,5° a 9°,Primaria (4°),Servicios,Servicios,Madre,No,4
+539,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,4
+540,3 o menos,Juntos,Superior,Primaria (4°),Otro,Otro,Madre,Sí,1
+541,Más de 3,Juntos,Secundaria,5° a 9°,Hogar,Otro,Madre,No,4
+542,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,No,5
+543,Más de 3,Juntos,Superior,Superior,Docente,Servicios,Madre,Sí,5
+544,Más de 3,Juntos,Superior,Superior,Salud,Otro,Padre,No,3
+545,3 o menos,Juntos,Primaria (4°),Secundaria,Otro,Otro,Padre,No,5
+546,Más de 3,Juntos,Secundaria,Superior,Servicios,Otro,Madre,Sí,5
+547,Más de 3,Juntos,Superior,Superior,Salud,Salud,Padre,Sí,5
+548,3 o menos,Juntos,Superior,Primaria (4°),Otro,Hogar,Padre,No,4
+549,Más de 3,Separados,Primaria (4°),Primaria (4°),Hogar,Hogar,Madre,No,4
+550,Más de 3,Juntos,Superior,5° a 9°,Otro,Otro,Madre,Sí,4
+551,3 o menos,Separados,5° a 9°,5° a 9°,Otro,Servicios,Padre,Sí,4
+552,Más de 3,Juntos,Secundaria,5° a 9°,Otro,Otro,Padre,Sí,4
+553,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,Sí,4
+554,3 o menos,Separados,Primaria (4°),Ninguna,Otro,Otro,Madre,No,4
+555,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Hogar,Padre,Sí,3
+556,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Otro,Padre,Sí,4
+557,3 o menos,Juntos,Primaria (4°),5° a 9°,Otro,Hogar,Madre,No,4
+558,Más de 3,Juntos,Secundaria,Primaria (4°),Otro,Otro,Madre,Sí,5
+559,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,No,5
+560,Más de 3,Juntos,Primaria (4°),Ninguna,Hogar,Hogar,Otro,Sí,4
+561,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Madre,Sí,4
+562,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Hogar,Madre,Sí,4
+563,3 o menos,Juntos,5° a 9°,5° a 9°,Otro,Servicios,Padre,No,5
+564,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,No,1
+565,Más de 3,Juntos,Secundaria,5° a 9°,Servicios,Otro,Padre,No,4
+566,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,No,4
+567,Más de 3,Juntos,Primaria (4°),Primaria (4°),Servicios,Otro,Otro,Sí,5
+568,Más de 3,Juntos,Secundaria,5° a 9°,Servicios,Otro,Madre,No,2
+569,Más de 3,Juntos,Secundaria,5° a 9°,Hogar,Servicios,Madre,No,3
+570,Más de 3,Juntos,Secundaria,Secundaria,Hogar,Hogar,Madre,Sí,4
+571,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,Sí,5
+572,Más de 3,Juntos,5° a 9°,Primaria (4°),Hogar,Otro,Otro,No,4
+573,Más de 3,Separados,Secundaria,5° a 9°,Servicios,Hogar,Madre,Sí,2
+574,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Hogar,Madre,Sí,4
+575,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Otro,Sí,4
+576,Más de 3,Separados,Superior,Secundaria,Servicios,Servicios,Madre,Sí,5
+577,Más de 3,Juntos,Secundaria,5° a 9°,Otro,Otro,Madre,Sí,2
+578,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Otro,No,5
+579,Más de 3,Juntos,Secundaria,Secundaria,Salud,Otro,Madre,Sí,4
+580,3 o menos,Juntos,Primaria (4°),Secundaria,Hogar,Servicios,Madre,No,4
+581,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Otro,Sí,4
+582,Más de 3,Separados,Primaria (4°),5° a 9°,Hogar,Otro,Madre,Sí,4
+583,3 o menos,Separados,Primaria (4°),Primaria (4°),Hogar,Otro,Madre,Sí,1
+584,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,No,5
+585,Más de 3,Juntos,Ninguna,Ninguna,Hogar,Otro,Madre,Sí,4
+586,3 o menos,Separados,Secundaria,Primaria (4°),Otro,Hogar,Otro,Sí,4
+587,Más de 3,Juntos,Superior,5° a 9°,Docente,Servicios,Madre,Sí,5
+588,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Madre,Sí,2
+589,Más de 3,Juntos,Superior,Primaria (4°),Salud,Hogar,Madre,Sí,3
+590,3 o menos,Juntos,Primaria (4°),5° a 9°,Hogar,Otro,Padre,No,5
+591,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,No,3
+592,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Hogar,Padre,No,4
+593,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Servicios,Madre,Sí,4
+594,3 o menos,Separados,Primaria (4°),5° a 9°,Hogar,Otro,Madre,No,4
+595,Más de 3,Juntos,Superior,Superior,Docente,Docente,Madre,No,4
+596,3 o menos,Juntos,Superior,Superior,Servicios,Otro,Madre,Sí,5
+597,Más de 3,Juntos,Superior,5° a 9°,Otro,Otro,Madre,Sí,4
+598,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,No,4
+599,3 o menos,Juntos,Primaria (4°),5° a 9°,Hogar,Servicios,Madre,Sí,4
+600,Más de 3,Juntos,Superior,Superior,Hogar,Servicios,Madre,Sí,2
+601,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Padre,No,4
+602,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Otro,Madre,Sí,1
+603,3 o menos,Juntos,5° a 9°,5° a 9°,Servicios,Servicios,Padre,No,5
+604,3 o menos,Separados,Superior,5° a 9°,Docente,Otro,Madre,No,5
+605,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Servicios,Madre,No,4
+606,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Servicios,Padre,No,5
+607,Más de 3,Juntos,Superior,5° a 9°,Docente,Otro,Padre,No,4
+608,3 o menos,Separados,5° a 9°,Primaria (4°),Servicios,Otro,Madre,No,5
+609,3 o menos,Separados,Primaria (4°),Primaria (4°),Hogar,Servicios,Madre,No,5
+610,Más de 3,Juntos,Primaria (4°),5° a 9°,Hogar,Hogar,Padre,Sí,4
+611,Más de 3,Separados,Primaria (4°),Primaria (4°),Hogar,Hogar,Otro,Sí,3
+612,Más de 3,Juntos,5° a 9°,5° a 9°,Servicios,Otro,Madre,No,4
+613,Más de 3,Juntos,Superior,Secundaria,Servicios,Otro,Madre,Sí,4
+614,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Servicios,Padre,Sí,5
+615,Más de 3,Juntos,Superior,Superior,Docente,Servicios,Padre,Sí,4
+616,3 o menos,Separados,Secundaria,5° a 9°,Servicios,Otro,Madre,No,1
+617,3 o menos,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Padre,No,3
+618,3 o menos,Juntos,Primaria (4°),Primaria (4°),Hogar,Servicios,Padre,No,5
+619,3 o menos,Separados,Primaria (4°),5° a 9°,Hogar,Otro,Madre,No,4
+620,Más de 3,Juntos,Secundaria,Secundaria,Servicios,Servicios,Madre,Sí,4
+621,3 o menos,Juntos,Superior,Superior,Hogar,Hogar,Madre,Sí,2
+622,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Servicios,Padre,No,3
+623,Más de 3,Juntos,Primaria (4°),Secundaria,Hogar,Otro,Madre,Sí,3
+624,3 o menos,Juntos,Superior,Superior,Docente,Servicios,Madre,No,4
+625,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Madre,Sí,5
+626,Más de 3,Juntos,5° a 9°,Secundaria,Hogar,Servicios,Padre,Sí,5
+627,Más de 3,Juntos,Superior,Superior,Otro,Docente,Padre,Sí,3
+628,3 o menos,Juntos,Primaria (4°),5° a 9°,Hogar,Servicios,Padre,Sí,4
+629,Más de 3,Juntos,5° a 9°,5° a 9°,Otro,Hogar,Madre,No,3
+630,Más de 3,Juntos,Primaria (4°),5° a 9°,Otro,Otro,Madre,No,3
+631,3 o menos,Juntos,Superior,Superior,Otro,Otro,Madre,No,5
+632,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,No,4
+633,Más de 3,Juntos,Primaria (4°),Primaria (4°),Hogar,Otro,Otro,Sí,4
+634,3 o menos,Juntos,Superior,Superior,Docente,Servicios,Madre,No,5
+635,Más de 3,Juntos,Secundaria,Secundaria,Otro,Otro,Madre,No,4
+636,Más de 3,Juntos,Secundaria,Primaria (4°),Hogar,Otro,Madre,Sí,4
+637,Más de 3,Juntos,Superior,Superior,Docente,Docente,Padre,No,3
+638,Más de 3,Juntos,5° a 9°,Primaria (4°),Otro,Otro,Madre,No,4
+639,Más de 3,Juntos,5° a 9°,Secundaria,Otro,Servicios,Padre,No,4
+640,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Servicios,Madre,No,4
+641,Más de 3,Juntos,Superior,5° a 9°,Otro,Otro,Padre,No,5
+642,Más de 3,Juntos,5° a 9°,5° a 9°,Hogar,Otro,Madre,No,5
+643,Más de 3,Juntos,Superior,Secundaria,Docente,Otro,Madre,No,5
+644,Más de 3,Juntos,Superior,Superior,Docente,Hogar,Madre,Sí,4
+645,Más de 3,Juntos,5° a 9°,Secundaria,Servicios,Otro,Madre,No,5
+646,3 o menos,Juntos,Secundaria,Primaria (4°),Docente,Servicios,Madre,Sí,4
+647,Más de 3,Juntos,Primaria (4°),Primaria (4°),Otro,Otro,Madre,No,1
+648,3 o menos,Juntos,Secundaria,Primaria (4°),Servicios,Servicios,Madre,No,2
+649,3 o menos,Juntos,Secundaria,5° a 9°,Servicios,Otro,Madre,No,4
