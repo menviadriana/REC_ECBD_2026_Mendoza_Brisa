@@ -1,0 +1,16 @@
+escenario,modelo,MAE,RMSE,R2,tarea,Accuracy,Precision,Recall,F1
+1. Inicio,Regresión lineal,1.713,2.161,0.224,Regresión,,,,
+1. Inicio,Random Forest,1.555,1.974,0.352,Regresión,,,,
+2. Alerta temprana,Regresión lineal,1.024,1.284,0.726,Regresión,,,,
+2. Alerta temprana,Random Forest,0.989,1.247,0.742,Regresión,,,,
+3. Final,Regresión lineal,0.648,0.801,0.893,Regresión,,,,
+3. Final,Random Forest,0.605,0.78,0.899,Regresión,,,,
+1. Inicio,Regresión logística,,,,Clasificación,0.732,0.27,0.588,0.37
+1. Inicio,Árbol de decisión,,,,Clasificación,0.701,0.244,0.588,0.345
+1. Inicio,Random Forest,,,,Clasificación,0.843,0.412,0.412,0.412
+2. Alerta temprana,Regresión logística,,,,Clasificación,0.787,0.333,0.588,0.426
+2. Alerta temprana,Árbol de decisión,,,,Clasificación,0.819,0.406,0.765,0.531
+2. Alerta temprana,Random Forest,,,,Clasificación,0.85,0.45,0.529,0.486
+3. Final,Regresión logística,,,,Clasificación,0.85,0.458,0.647,0.537
+3. Final,Árbol de decisión,,,,Clasificación,0.866,0.5,0.765,0.605
+3. Final,Random Forest,,,,Clasificación,0.874,0.526,0.588,0.556

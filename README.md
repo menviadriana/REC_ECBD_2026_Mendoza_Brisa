@@ -41,53 +41,76 @@ REC_ECBD_2026_Mendoza_Brisa/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   ├── raw/                     # Dataset original SIN modificaciones
-│   └── processed/               # Datos limpios y transformados
-│       ├── student_por_limpio.csv     (649 registros + variables derivadas)
-│       ├── student_por_modelo.csv     (634 registros codificados, Unidad III)
-│       ├── student_por_escalado.csv   (634 registros escalados, Unidad IV)
-│       └── datamart/                  (una tabla CSV por tabla del Data Mart)
+│   ├── raw/                         # Dataset original SIN modificaciones
+│   └── processed/                   # Datos limpios, transformados y resultados
+│       ├── student_por_limpio.csv         (dataset limpio: 649 registros + variables derivadas)
+│       ├── student_por_modelo.csv         (634 registros codificados, Unidad III)
+│       ├── student_por_escalado.csv       (634 registros escalados, Unidad IV)
+│       ├── datamart/                      (una tabla CSV por tabla del Data Mart)
+│       ├── predicciones_supervisado.csv   (predicciones de los modelos, Unidad III)
+│       ├── metricas_supervisado.csv       (métricas de todos los modelos, Unidad III)
+│       ├── clusters_estudiantes.csv       (cluster y componentes PCA por alumno, Unidad IV)
+│       └── resumen_clusters.csv           (perfil promedio de cada cluster, Unidad IV)
 ├── notebooks/
-│   ├── Mendoza_Vigueras_Brisa_U2_AE1_Exploracion.ipynb   # U2 AE1: exploración y diagnóstico
-│   └── 02_limpieza_etl.ipynb          # U2 AE2: limpieza, transformación y ETL
+│   ├── Mendoza_Vigueras_Brisa_U2_AE1_Exploracion.ipynb
+│   ├── Mendoza_Vigueras_Brisa_U2_AE2_ETL.ipynb
+│   ├── Mendoza_Vigueras_Brisa_U3_AnalisisSupervisado.ipynb
+│   └── Mendoza_Vigueras_Brisa_U4_AnalisisNoSupervisado.ipynb
 ├── src/
-│   └── etl.py                   # Proceso ETL completo y reproducible
+│   └── etl.py                       # Proceso ETL completo y reproducible
 ├── sql/
-│   ├── 01_crear_datamart.sql    # Crea la base y el modelo estrella
-│   ├── 02_cargar_datos.sql      # Inserta los datos (generado por etl.py)
-│   └── 03_consultas_analiticas.sql
-├── modelos/                     # Modelos entrenados (.joblib)
-├── dashboard/                   # Archivo de Power BI (.pbix)
-└── docs/
-    ├── Mendoza_Vigueras_Brisa_U2_AE1_Diagnostico.pdf
-    ├── diccionario_de_datos.csv
-    └── figuras/                 # Gráficas del análisis exploratorio
+│   ├── 01_crear_datamart.sql        # Script de creación del Data Mart (modelo estrella)
+│   ├── 02_cargar_datos.sql          # Carga de datos (generado por etl.py)
+│   └── 03_consultas_analiticas.sql  # Consultas de verificación y análisis
+├── modelos/                         # Modelos entrenados (.joblib)
+├── dashboard/                       # Dashboard de Power BI (.pbix)
+└── docs/                            # Informes PDF, diccionario, diagrama y figuras
 ```
 
 > **Regla de integridad:** `data/raw/` conserva siempre el dataset original sin modificar. Todo archivo limpio o transformado se guarda en `data/processed/`.
 
 ## Unidad II: preparación de datos
 
-**Actividad 1 – Exploración y diagnóstico:** `notebooks/Mendoza_Vigueras_Brisa_U2_AE1_Exploracion.ipynb` e informe `docs/Mendoza_Vigueras_Brisa_U2_AE1_Diagnostico.pdf`. Sin modificar los datos originales: 0 nulos, 0 duplicados, 0 valores fuera de rango; 15 alumnos con G3 = 0 (abandono), 1 con G1 = 0 (dato no capturado), 21 atípicos en faltas y clases desbalanceadas (84.6 % / 15.4 %).
+**AE1 – Exploración y diagnóstico:** `notebooks/Mendoza_Vigueras_Brisa_U2_AE1_Exploracion.ipynb` · informe `docs/Mendoza_Vigueras_Brisa_U2_AE1_Diagnostico.pdf`.
+Hallazgos: 0 nulos, 0 duplicados, 0 valores fuera de rango; 15 alumnos con G3 = 0 (abandono), 1 con G1 = 0 (dato no capturado), 21 atípicos en faltas, clases desbalanceadas (84.6 % / 15.4 %).
 
-**Actividad 2 – Limpieza, transformación y ETL:** `notebooks/02_limpieza_etl.ipynb`, `src/etl.py` y scripts de `sql/`.
-
-**Decisiones de limpieza**
+**AE2 – Limpieza, ETL y Data Mart:** `notebooks/Mendoza_Vigueras_Brisa_U2_AE2_ETL.ipynb` · `src/etl.py` · `sql/` · diagrama `docs/figuras/diagrama_datamart.png`.
 
 | Hallazgo | Decisión |
 |---|---|
-| 0 nulos, 0 duplicados, sin valores fuera de rango | No se requiere imputación |
-| 15 alumnos con G3 = 0 y 0 faltas (probable abandono) | Se marcan con `abandono = 1`; se conservan en el Data Mart y se excluyen del modelado |
-| 21 alumnos con más de 15 faltas (atípicos por IQR) | Son válidos; para el modelado se recortan a 15 |
-| 13 variables binarias y 4 nominales | Binarias → 0/1; nominales → one-hot |
-| Escalas distintas entre variables | `StandardScaler` para clustering/PCA |
+| Sin nulos, duplicados ni valores fuera de rango | No se requiere imputación ni eliminación |
+| 15 alumnos con G3 = 0 y 0 faltas (abandono) | Se marcan con `abandono = 1`; se conservan en el Data Mart y se excluyen del modelado |
+| 21 alumnos con más de 15 faltas | Válidos; se recortan a 15 solo para el modelado |
+| 13 binarias y 4 nominales de texto | Binarias → 0/1; nominales → one-hot |
+| Escalas distintas | `StandardScaler` para clustering y PCA |
 
-**Variables derivadas:** `id_estudiante`, `aprobado` (G3 ≥ 10), `nivel_desempeno` (Bajo/Medio/Alto), `abandono`.
+Data Mart `DM_RendimientoEstudiantil` en SQL Server (`localhost\SQLEXPRESS`): tabla de hechos `fact_rendimiento` (g1, g2, g3, faltas, reprobadas_previas, aprobado, abandono) y dimensiones `dim_estudiante`, `dim_familia`, `dim_habitos`, `dim_escuela`, `dim_desempeno`.
 
-**Data Mart `DM_RendimientoEstudiantil` (modelo estrella)**
+## Unidad III: análisis supervisado
 
-- Hechos: `fact_rendimiento` (g1, g2, g3, faltas, reprobadas_previas, aprobado, abandono)
-- Dimensiones: `dim_estudiante`, `dim_familia`, `dim_habitos`, `dim_escuela`, `dim_desempeno`
+`notebooks/Mendoza_Vigueras_Brisa_U3_AnalisisSupervisado.ipynb` · modelos en `modelos/`.
+
+Se comparan tres escenarios según el momento del curso: **inicio** (sin calificaciones), **alerta temprana** (con G1) y **final** (con G1 y G2). El escenario principal es el de alerta temprana.
+
+| Tarea | Modelo final (escenario alerta temprana) | Resultado en prueba |
+|---|---|---|
+| Regresión de G3 | Random Forest optimizado (GridSearchCV) | MAE = 0.95 · RMSE = 1.18 · R² = 0.77 |
+| Clasificación aprobado / no aprobado | Random Forest optimizado (`class_weight="balanced"`, max_depth = 3) | Recall (no aprobado) = 0.82 · F1 = 0.56 · Accuracy = 0.83 |
+
+Variables más relevantes sin calificaciones: materias reprobadas previas, aspiración a estudios superiores, faltas, escolaridad de la madre y tiempo de estudio.
+
+## Unidad IV: análisis no supervisado
+
+`notebooks/Mendoza_Vigueras_Brisa_U4_AnalisisNoSupervisado.ipynb`
+
+K-Means (k = 4) sobre 11 variables de hábitos y entorno, estandarizadas; PCA para la visualización (PC1 = vida social y alcohol, PC2 = escolaridad de los padres).
+
+| Perfil | Alumnos | Promedio G3 | % no aprobados |
+|---|---|---|---|
+| Entorno favorable | 217 | 13.46 | 4.1 % |
+| Tranquilos con menor apoyo escolar familiar | 237 | 12.16 | 11.4 % |
+| Vida social intensa | 130 | 11.25 | 18.5 % |
+| Historial de reprobación | 50 | 9.22 | 50.0 % |
 
 ## Cómo ejecutar
 
@@ -96,15 +119,17 @@ pip install -r requirements.txt
 python src/etl.py
 ```
 
-Después, en SQL Server Management Studio (servidor `localhost\SQLEXPRESS`) ejecutar en orden los scripts de `sql/`.
+1. En SQL Server Management Studio (servidor `localhost\SQLEXPRESS`), ejecutar en orden los scripts de `sql/`.
+2. Abrir los notebooks de `notebooks/` en orden (U2_AE1 → U2_AE2 → U3 → U4) y ejecutar **Run All**.
 
 ## Avance por unidad
 
 | Unidad | Entrega | Fecha | Estado |
 |---|---|---|---|
 | Actividad 0 | Inicio y registro | 25 sep 2026 | ✅ Entregada |
-| I | Planeación del proyecto (`docs/Mendoza_Vigueras_Brisa_U1_PlaneacionProyecto.pdf`) | 2 oct 2026 | ✅ Entregada |
-| II | Preparación de datos, ETL y Data Mart | 16 oct 2026 | ✅ En revisión |
-| III | Análisis supervisado | 30 oct 2026 | ⏳ Pendiente |
-| IV | Análisis no supervisado | 13 nov 2026 | ⏳ Pendiente |
-| V | Dashboard, storytelling y defensa | 20 nov 2026 | ⏳ Pendiente |
+| I | Planeación del proyecto | 2 oct 2026 | ✅ Entregada |
+| II – AE1 | Exploración y diagnóstico | 11 nov 2026 | ✅ Entregada |
+| II – AE2 | Limpieza, ETL y Data Mart | 13 nov 2026 | ✅ Completa |
+| III | Análisis supervisado | 16 nov 2026 | ✅ Completa |
+| IV | Análisis no supervisado | 18 nov 2026 | 🔄 Notebook completo; informe en desarrollo |
+| V | Dashboard, storytelling y defensa | 20 nov 2026 | 🔄 Dashboard iniciado |

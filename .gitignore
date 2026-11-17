@@ -5,3 +5,6 @@ __pycache__/
 venv/
 .env
 .DS_Store
+
+# Carpeta local de archivos de Claude (no se sube al repositorio)
+Claude outputs/
