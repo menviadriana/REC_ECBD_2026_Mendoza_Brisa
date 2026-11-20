@@ -72,6 +72,6 @@ pip install -r requirements.txt
 | Actividad 0 | Inicio y registro | 25 sep 2026 | ✅ Entregada |
 | I | Planeación del proyecto (`docs/Mendoza_Vigueras_Brisa_U1_PlaneacionProyecto.pdf`) | 2 oct 2026 | ✅ Entregada |
 | II | Preparación de datos, ETL y Data Mart | 16 oct 2026 | ⏳ Pendiente |
-| III | Análisis supervisado | 30 oct 2026 | ⏳ Pendiente |
-| IV | Análisis no supervisado | 13 nov 2026 | ⏳ Pendiente |
+| III | Análisis supervisado | 30 oct 2026 | ✅ Completa |
+| IV | Análisis no supervisado | 13 nov 2026 | ✅ Completa |
 | V | Dashboard, storytelling y defensa | 20 nov 2026 | ⏳ Pendiente |
