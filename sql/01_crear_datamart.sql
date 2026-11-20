@@ -3,10 +3,14 @@
    Proyecto: Análisis del rendimiento académico de estudiantes
    Servidor: localhost\SQLEXPRESS
 
-   Orden de ejecución en SSMS:
+   NOTA: Este script se conserva como DOCUMENTACIÓN del esquema.
+   La creación de la base de datos, las tablas y la carga de datos
+   se ejecutan automáticamente desde Python con:
+       python src/etl.py
+
+   Si se necesita recrear manualmente, ejecutar en SSMS:
      1. Este archivo (crea la base de datos y las tablas)
-     2. 02_cargar_datos.sql  (inserta los datos; lo genera src/etl.py)
-     3. 03_consultas_analiticas.sql (consultas de prueba)
+     2. 03_consultas_analiticas.sql (consultas de verificación)
    ===================================================================== */
 
 IF DB_ID('DM_RendimientoEstudiantil') IS NULL
